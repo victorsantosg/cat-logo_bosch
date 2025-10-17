@@ -152,19 +152,20 @@ Basta executá-lo para iniciar o programa.
 
 > ⚠️ **Dica:** Inclua os arquivos `users.db` e `ecus.db` na mesma pasta do `.exe`, ou adicione lógica no código para criá-los automaticamente se não existirem.
 
+
 ## 💡 Melhorias Futuras
 
-**Categoria	Ideia** 
-
-* 🔧 Funcionalidades	Adicionar níveis de acesso (admin / usuário comum)
-* 🌓 Interface	Implementar modo claro/escuro dinâmico
-* 🧾 Relatórios	Exportar dados em PDF com layout profissional
-* 📊 Dashboard	Criar painel de estatísticas e contagem de ECUs por fabricante
-* ☁️ Backup	Sincronização automática com banco na nuvem (SQLite remoto ou Firebase)
-* 🔍 Busca Avançada	Filtros combinados e ordenação por qualquer coluna
-* 👥 Multiusuário	Permitir logins simultâneos com registro de atividade
-* 📦 Atualizações	Sistema de update automático da aplicação
-* 🖼️ Design	Adicionar ícones e logotipo personalizado para maior identidade visual
+| Categoria          | Ideia                                                                       |
+| ------------------ | --------------------------------------------------------------------------- |
+| 🔧 Funcionalidades | Adicionar **níveis de acesso (admin / usuário comum)**                      |
+| 🌓 Interface       | Implementar **modo claro/escuro dinâmico**                                  |
+| 🧾 Relatórios      | Exportar dados em **PDF** com layout profissional                           |
+| 📊 Dashboard       | Criar painel de estatísticas e contagem de ECUs por fabricante              |
+| ☁️ Backup          | Sincronização automática com **banco na nuvem (SQLite remoto ou Firebase)** |
+| 🔍 Busca Avançada  | Filtros combinados e ordenação por qualquer coluna                          |
+| 👥 Multiusuário    | Permitir logins simultâneos com registro de atividade                       |
+| 📦 Atualizações    | Sistema de **update automático** da aplicação                               |
+| 🖼️ Design         | Adicionar ícones e logotipo personalizado para maior identidade visual      |
 
 ---
 
@@ -186,3 +187,6 @@ Basta executá-lo para iniciar o programa.
 
 Projeto desenvolvido para fins educacionais e profissionais.
 Licenciado sob a **MIT License**.
+
+
+
