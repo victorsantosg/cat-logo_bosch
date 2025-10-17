@@ -156,7 +156,7 @@ Basta executá-lo para iniciar o programa.
 
 ## 👨‍💻 Autor
 
-**Victor Peixoto Santos**
+**Victor Santos**
 📅 Desenvolvido em **17 de Outubro de 2025**
 💡 “Transformando código em soluções práticas e seguras.”
 
