@@ -162,9 +162,9 @@ Basta executá-lo para iniciar o programa.
 
 ---
 
-## 📸 Screenshot (opcional)
+## 📸 Screenshot 
 
-> Adicione aqui uma imagem da interface (`/images/tela_principal.png`)
+> Interface do Programa (`/img/Banco_de_dados_ecu.png`)
 
 ---
 
