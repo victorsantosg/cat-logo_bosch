@@ -1,6 +1,6 @@
-# ⚙️ ECU Manager
+# ⚙️ Banco de Dados de ECUs BOSCH | Por Victor Santos
 
-**ECU Manager** é uma aplicação desktop desenvolvida em **Python** com **CustomTkinter**, **SQLite3** e **criptografia de senhas (hash)**, criada para gerenciar dados técnicos de **ECUs automotivas**.
+**ECU Manager** é uma aplicação desktop desenvolvida em **Python** com **CustomTkinter**, **SQLite3** e **criptografia de senhas (hash)**, criada para gerenciar e armazenar dados técnicos de **ECUs automotivas**.
 O sistema inclui autenticação de usuários, controle de acesso seguro e uma interface moderna para cadastro, consulta, edição e exportação de informações.
 
 ---
