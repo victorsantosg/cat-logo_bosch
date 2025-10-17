@@ -177,8 +177,8 @@ class ECUManagerApp:
         self.tree_frame.columnconfigure(0, weight=1)
 
         #Estilo de linhas alternadas
-        self.tree.tag_configure("evenrow", background="#262626")
-        self.tree.tag_configure("oddrow", background="#333333")
+        self.tree.tag_configure("evenrow", background="#262626") # Cor de fundo
+        self.tree.tag_configure("oddrow", background="#333333") # Cor de fundo
 
         # Eventos
         self.tree.bind("<<TreeviewSelect>>", self.on_tree_select)
@@ -206,22 +206,22 @@ class ECUManagerApp:
         status_label.pack(fill="x", padx=pad, pady=(0, pad))
 
     # ---------------- CALLBACKS ----------------
-    def set_status(self, text):
-        self.status_var.set(text)
+    def set_status(self, text): # Atualiza o status
+        self.status_var.set(text) # Atualiza o status
 
-    def refresh_grid(self, num="", model="", fabri=""):
-        for r in self.tree.get_children():
-            self.tree.delete(r)
-        for row in search_ecus(num, model, fabri):
-            self.tree.insert("", "end", values=row)
+    def refresh_grid(self, num="", model="", fabri=""): 
+        for r in self.tree.get_children(): # Limpa a tabela
+            self.tree.delete(r) # Limpa a tabela
+        for row in search_ecus(num, model, fabri): # Preenche a tabela
+            self.tree.insert("", "end", values=row) # Preenche a tabela
 
     def on_search(self):
         self.refresh_grid(self.search_bosch.get(), self.search_model.get(), self.search_fabricante.get())
         self.set_status("Busca atualizada")
 
-    def on_clear_search(self):
-        self.search_bosch.delete(0, "end")
-        self.search_model.delete(0, "end")
+    def on_clear_search(self): # Limpa a busca
+        self.search_bosch.delete(0, "end") # Limpa a busca
+        self.search_model.delete(0, "end") 
         self.search_fabricante.delete(0, "end")
         self.refresh_grid()
         self.set_status("Busca limpa")
