@@ -1,0 +1,5078 @@
+﻿Veículo,ECU modelo
+Veículo,ECU modelo
+AGCO,
+Tractor,GEARBOX
+ARGO TRACTORS,
+Tractor,HJS
+BOSCH,
+Auto,BMS T1
+Auto,BMS46
+Auto,CM3230B
+,DCU15
+,
+Tractor,DCU15
+,
+,
+,
+Truck,DCU15
+,
+,
+,
+,DCU17CV51
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,03 - INFINEON TRICORE (TM003)
+"Diesel sovralimentato
+DCU17HD01
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM003)
+"Auto
+Diesel sovralimentato
+DCU17HD01
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM003)
+"Tractor
+Diesel sovralimentato
+DCU17HD01
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM003)
+"Truck
+Diesel sovralimentato
+DCU17HD01
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,
+"Auto
+Diesel sovralimentato
+DCU17PC42
+TC1724",03 - INFINEON TRICORE (TM063)
+,
+"Diesel sovralimentato
+DCU17PC43
+TC1724",03 - INFINEON TRICORE (TM063)
+,
+"Auto
+Diesel sovralimentato
+DCU17PC43
+TC1724",03 - INFINEON TRICORE (TM063)
+,
+"Auto
+Diesel sovralimentato
+DCU24
+TC1724",03 - INFINEON TRICORE (TM063)
+"Auto
+Diesel sovralimentato
+DDE 3.0",
+,
+"Auto
+Diesel sovralimentato
+DDE 4.0",
+,
+"Auto
+Benzina aspirato
+DME 7.1",
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,
+Auto,DQ380
+,
+,
+,
+,
+,
+,
+Auto,DQ381
+,
+,
+,
+Tractor,EDC MS6.1
+Truck,EDC MS6.1
+Tractor,EDC MS6.2
+,
+,
+Truck,EDC MS6.2
+,
+,
+,
+Auto,EDC MS6.3
+,
+Truck,EDC MS6.3
+,
+Tractor,EDC MS6.4
+,
+Truck,EDC MS6.4
+Auto,EDC15C11
+Marine,EDC15C11
+,
+Auto,EDC15C2
+,
+,
+Auto,EDC15C3
+,
+,
+Auto,EDC15C5
+,
+,
+Auto,EDC15C6
+,
+Truck,EDC15C6
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,EDC15C7
+,
+Auto,EDC15C9
+,
+Auto,EDC15M
+,
+,
+Auto,EDC15P+
+,
+,EDC15VM+
+,
+,
+Auto,EDC15VM+
+,
+,
+Marine,EDC15VM+
+,
+Auto,EDC16C1
+,
+,
+Marine,EDC16C1
+,
+,
+Auto,EDC16C10
+,
+,
+,
+Auto,EDC16C2
+,
+,
+,
+Auto,EDC16C2/C3/C7
+,
+,
+,
+Auto,EDC16C3
+,
+,
+,
+,
+,
+Truck,EDC16C3
+,
+,
+Auto,EDC16C31
+,
+,
+Auto,EDC16C32
+,
+Auto,EDC16C33
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,EDC16C39
+,
+,
+,
+,
+,
+,
+,
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC16C39
+MPC561/MPC562",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,
+,
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Auto
+Diesel sovralimentato
+EDC16C41
+MPC561/MPC562",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,
+"Auto
+Diesel sovralimentato
+EDC16C42
+MPC563/MPC564",01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC16C42
+MPC563/MPC564",01 - MOTOROLA MPC500 (TM001)
+,01 - MOTOROLA MPC500 (TM001)
+"Auto
+Diesel sovralimentato
+EDC16C7
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Auto
+Diesel sovralimentato
+EDC16C8
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC16C8
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Auto
+Diesel sovralimentato
+EDC16C9
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+,
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,
+Auto,EDC16CP31
+,
+,
+,
+,
+,
+,
+Auto,EDC16CP33
+,
+,
+,
+,
+,
+,
+Auto,EDC16CP34
+,
+,
+,
+,
+Marine,EDC16CP34
+,
+,
+Auto,EDC16CP36
+,
+,
+,
+,
+Auto,EDC16CP39
+,
+,
+,
+,
+Auto,EDC16CP42
+,
+,
+Auto,EDC16U1
+,
+,
+,
+,EDC16U31
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,
+,
+Auto,EDC16U31
+,
+,
+,
+,
+,
+,
+,
+Auto,EDC16U31/CP34
+,
+,
+,
+,
+Marine,EDC16U31/CP34
+,
+,
+,
+Auto,EDC16U34
+,
+,
+,
+,EDC16UC40
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Tractor
+Diesel sovralimentato
+EDC16UC40
+MPC561/MPC562",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC16UC40
+MPC561/MPC562",
+,01 - MOTOROLA MPC500 (TM066)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17C06
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,
+"Diesel aspirato, Diesel",03 - INFINEON TRICORE (TM004)
+"Auto
+EDC17C08
+TC1766",
+sovralimentato,03 - INFINEON TRICORE (TM063)
+,
+,
+,
+,03 - INFINEON TRICORE (TM004)
+TC1796,
+"Auto
+Diesel sovralimentato
+EDC17C10",03 - INFINEON TRICORE (TM028)
+TC1797,
+,03 - INFINEON TRICORE (TM063)
+,
+,
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17C11
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17C18
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,EDC17C19
+,
+,
+,
+Auto,EDC17C41 (DDE701/721)
+,
+,
+,
+Auto,EDC17C41 (DDE721A/721B/721P)
+,
+,
+,
+Auto,EDC17C42
+,
+,
+,
+Auto,EDC17C43
+,
+,
+Auto,EDC17C45
+,
+,
+Truck,EDC17C45
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,03 - INFINEON TRICORE (TM004)
+,03 - INFINEON TRICORE (TM013)
+"Auto
+Diesel sovralimentato
+EDC17C46
+TC1767",
+,03 - INFINEON TRICORE (TM023)
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Bike
+Diesel sovralimentato
+EDC17C46
+TC1767",03 - INFINEON TRICORE (TM013)
+,03 - INFINEON TRICORE (TM023)
+TC1782,03 - INFINEON TRICORE (TM039)
+"Auto
+Diesel sovralimentato
+EDC17C47",
+TC1793,03 - INFINEON TRICORE (TM063)
+,
+,
+,03 - INFINEON TRICORE (TM004)
+"Diesel sovralimentato
+EDC17C49
+TC1797",03 - INFINEON TRICORE (TM061)
+,03 - INFINEON TRICORE (TM063)
+,
+,
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+,
+,
+,
+,
+,
+,
+"Benzina aspirato,",
+Auto,TC1797
+Diesel sovralimentato,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,EDC17C49
+,
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Tractor,EDC17C53
+,
+,
+,
+Truck,EDC17C53
+,
+,
+Auto,EDC17C54
+,
+,
+,
+Auto,EDC17C55
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,EDC17C58
+,
+,
+Auto,EDC17C59
+,
+,
+,
+,
+Auto,EDC17C69
+,
+,
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17C81
+TC1782",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Tractor
+Diesel sovralimentato
+EDC17C81
+TC1782",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Truck
+Diesel sovralimentato
+EDC17C81
+TC1782",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM003)
+"Auto
+Diesel sovralimentato
+EDC17C83
+TC1793",
+,03 - INFINEON TRICORE (TM063)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,03 - INFINEON TRICORE (TM031)
+"Auto
+Diesel sovralimentato
+EDC17C84
+TC1782",03 - INFINEON TRICORE (TM032)
+,03 - INFINEON TRICORE (TM063)
+"Diesel sovralimentato
+EDC17C87
+TC1793",03 - INFINEON TRICORE (TM063)
+"Auto
+Diesel sovralimentato
+EDC17C87
+TC1793",03 - INFINEON TRICORE (TM063)
+"Tractor
+Diesel sovralimentato
+EDC17C87
+TC1793",03 - INFINEON TRICORE (TM063)
+"Diesel aspirato, Diesel",
+"Truck
+EDC17C87
+TC1793",03 - INFINEON TRICORE (TM063)
+sovralimentato,
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP01
+TC1796",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP02
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP04
+TC1796",
+,03 - INFINEON TRICORE (TM063)
+TC1796,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP05",
+TC1797,03 - INFINEON TRICORE (TM028)
+TC1796,03 - INFINEON TRICORE (TM004)
+"Truck
+Diesel sovralimentato
+EDC17CP05",
+TC1797,03 - INFINEON TRICORE (TM028)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP06
+TC1792",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP07/CP37
+TC1766",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP09
+TC1796",
+,03 - INFINEON TRICORE (TM063)
+,
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CP10
+TC1796",
+,03 - INFINEON TRICORE (TM063)
+,
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,EDC17CP11
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,EDC17CP14
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Marine,EDC17CP14
+,
+,
+Auto,EDC17CP15
+,
+,
+Auto,EDC17CP16
+,
+,
+Auto,EDC17CP19
+,
+,
+,
+,EDC17CP20
+,
+,
+,
+,
+,
+,
+Auto,EDC17CP20
+,
+,
+,
+,
+,
+Truck,EDC17CP20
+,
+Auto,EDC17CP21
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,EDC17CP22
+,
+,
+Marine,EDC17CP22
+,
+,
+Auto,EDC17CP24
+,
+,
+Auto,EDC17CP27
+,
+,
+,
+,
+Auto,EDC17CP42
+,
+,
+,
+,
+,
+Auto,EDC17CP44
+,
+,
+,
+Auto,EDC17CP45 (DDE731)
+,
+,
+,
+,
+Auto,EDC17CP45 (DDE731A/751)
+,
+,
+,
+,
+,
+,
+Auto,EDC17CP46
+,
+,
+,
+,
+Auto,EDC17CP47
+,
+,
+Auto,EDC17CP48
+,
+,
+Auto,EDC17CP49
+,
+,
+Auto,EDC17CP50
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,EDC17CP52
+,
+,
+,
+,
+Auto,EDC17CP52
+,
+,
+,
+,
+Truck,EDC17CP52
+,
+,
+,
+Auto,EDC17CP54
+,
+,
+,
+,
+Auto,EDC17CP55
+,
+,
+,
+Auto,EDC17CP57
+,
+,
+Auto,EDC17CP58
+,
+,
+Auto,EDC17CP62
+,
+,
+,
+Auto,EDC17CP65
+,
+,
+,
+Truck,EDC17CP65
+,
+,
+Auto,EDC17CP68
+,
+,
+Auto,EDC17CP74
+,
+,
+,
+,
+"Diesel sovralimentato,",
+EDC17CV41,TF003
+Hybrid,
+,
+,
+,
+,
+,
+,
+,
+Tractor,EDC17CV41
+,
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,EDC17CV42
+,
+,
+,
+Tractor,EDC17CV42
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,
+"Diesel aspirato, Diesel",03 - INFINEON TRICORE (TM003)
+"EDC17CV45
+TC1782",
+sovralimentato,03 - INFINEON TRICORE (TM063)
+,
+"Tractor
+Diesel sovralimentato
+EDC17CV45
+TC1782",03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM003)
+"Truck
+Diesel sovralimentato
+EDC17CV45
+TC1782",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (T
+,
+"Diesel sovralimentato
+EDC17CV52
+TC1797",03 - INFINEON TRICORE (TM004)
+,
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CV52
+TC1797",
+,03 - INFINEON TRICORE (TM063)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Tractor,EDC17CV52
+,
+,
+,
+,
+Truck,EDC17CV52
+,
+,
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,
+,
+,03 - INFINEON TRICORE (TM0
+"Diesel aspirato, Diesel",
+"EDC17CV54
+TC1767",03 - INFINEON TRICORE (TM004)
+sovralimentato,
+,03 - INFINEON TRICORE (TM063)
+,
+,
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CV54
+TC1767",
+,03 - INFINEON TRICORE (TM063)
+"Diesel aspirato, Diesel",03 - INFINEON TRICORE (TM004)
+"Marine
+EDC17CV54
+TC1767",
+sovralimentato,03 - INFINEON TRICORE (TM063)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,
+,
+Tractor,EDC17CV54
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,EDC17CV54
+,
+,
+,
+,
+,
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,03 - INFINEON TRICORE (TM004)
+"Diesel sovralimentato
+EDC17CV56
+TC1767",
+,03 - INFINEON TRICORE (TM063)
+,03 - INFINEON TRICORE (TM004)
+"Auto
+Diesel sovralimentato
+EDC17CV56
+TC1767",
+,03 - INFINEON TRICORE (TM063)
+,03 -
+"Diesel aspirato, Diesel",
+"Tractor
+EDC17CV56
+TC1767",03 - INFINEON TRICORE (TM004)
+sovralimentato,
+,03 - INFINEON TRICORE (TM063)
+,
+,03 - INFINEON TRICORE (TM004)
+"Truck
+Diesel sovralimentato
+EDC17CV56
+TC1767",
+,03 - INFINEON TRICORE (TM063)
+,
+"Truck
+Diesel sovralimentato
+EDC17CV82
+TC1793",03 - INFINEON TRICORE (TM063)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,EDC17U01
+,
+,
+Auto,EDC17U05
+,
+,
+,
+,
+,
+,EDC7C1-C2
+,
+,
+,
+,
+,
+Auto,EDC7C1-C2
+,
+,
+,
+,
+Marine,EDC7C1-C2
+,
+,
+,
+,
+Tractor,EDC7C1-C2
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,EDC7C1-C2
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Tractor,EDC7C2
+,
+Truck,EDC7C3
+,
+,
+,EDC7C32
+,
+,
+Auto,EDC7C32
+,
+,
+Marine,EDC7C32
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,01 - MOTOROLA MPC500 (TM001)
+"Tractor
+Diesel sovralimentato
+EDC7C32
+MPC561/MPC562",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC7C32
+MPC561/MPC562",
+,01 - MOTOROLA MPC500 (TM066)
+,
+,01 - MOTOROLA MPC500 (TM001)
+"Auto
+Diesel sovralimentato
+EDC7C4
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+,01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC7C4
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+,01 - MOTOROLA MPC500 (TM001)
+"Truck
+Diesel sovralimentato
+EDC7U1
+MPC555/MPC556",
+,01 - MOTOROLA MPC500 (TM066)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+,
+,
+,
+,
+,
+,
+"Diesel aspirato, Diesel",
+EDC7UC31,TF001
+sovralimentato,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Tractor,EDC7UC31
+,
+,
+,
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Truck,EGC4.0
+,
+,
+Auto,M1.5.5
+,
+,
+Bike,M17.8.42
+,
+,
+,
+Bike,M17.8.7
+,
+,
+Auto,M17.9.55
+Auto,M5.2
+Auto,M5.2.1
+Auto,M5.2.1 DS39
+Auto,M5.2.2
+,M5.3S
+Truck,M5.3S
+,
+Bike,M7.4.4
+,
+Auto,M7.4.4 PSA
+Auto,M7.8.0
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+"Benzina aspirato,",
+,
+"Benzina
+Auto
+M7.8.8/ME7.8.8
+ST10F275",02 - STMICROELECTRONICS ST10 (TM002)
+,
+sovralimentato,
+"Auto
+Benzina aspirato
+M7.9.5
+ST10F275",02 - STMICROELECTRONICS ST10 (TM002)
+,
+"Auto
+Benzina aspirato
+M7.9.7
+ST10F275",02 - STMICROELECTRONICS ST10 (TM002)
+,
+"Auto
+Benzina aspirato, GPL
+M7.9.8/MG7.9.8
+ST10F275",02 - STMICROELECTRONICS ST10 (TM002)
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Auto
+Diesel sovralimentato
+MD1CC878
+SPC5898",
+,SPC5777M
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Truck
+Diesel sovralimentato
+MD1CC878
+SPC5898",
+,SPC5777M
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Diesel sovralimentato
+MD1CC878C
+SPC5898",
+,SPC5777M
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Tractor
+Diesel sovralimentato
+MD1CC878C
+SPC5898",
+,SPC5777M
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Truck
+Diesel sovralimentato
+MD1CC878C
+SPC5898",
+,SPC5777M
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Diesel sovralimentato
+MD1CE100
+TC299TP",
+,SPC5777M
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Auto
+Diesel sovralimentato
+MD1CE100
+TC299TP",
+,SPC5777M
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Truck
+Diesel sovralimentato
+MD1CE100
+TC299TP",
+,SPC5777M
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+BOSCH,
+,
+,MD1CE101
+,
+,
+Marine,MD1CE101
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,MD1CP001
+,
+,
+Auto,MD1CP002 (DME__DDE832C)
+,
+,
+Truck,MD1CP002 (DME__DDE832C)
+,
+,
+,
+Auto,MD1CP004
+,
+,
+,
+Auto,MD1CP006
+,
+,
+Truck,MD1CP006
+,
+,
+Auto,MD1CP007
+,
+,
+Auto,MD1CP014
+,
+,
+Auto,MD1CP032 (DME__DDE853O)
+,
+,
+Auto,MD1CS001 (DME__DDE802L)
+,
+,
+Auto,MD1CS001 (DME__DDE803P)
+,
+,
+Auto,MD1CS001 (DME__DDE803S)
+,
+,
+Auto,MD1CS003
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MD1CS004
+,
+,
+,
+Auto,MD1CS005
+,
+,
+Auto,MD1CS006
+,
+,
+Auto,MD1CS012
+,
+,
+Auto,MD1CS014
+,
+,
+Auto,MD1CS016
+,
+,
+,MD1CS018
+,
+,
+Auto,MD1CS018
+,
+,
+Tractor,MD1CS018
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,MD1CS069
+,
+,
+Auto,MD1CS069
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,ME17.0.3
+,
+,
+Auto,ME17.1.1
+,
+,
+Auto,ME17.1.6
+,
+,
+Bike,ME17.2 BMSX
+,
+,
+Bike,ME17.2.4 BMS-M
+,
+,
+Bike,ME17.2.4 BMS-MP
+,
+Bike,ME17.2.42 BMS-O
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,ME17.5.22
+,
+,
+,
+,
+Auto,ME17.5.24
+,
+,
+,
+,
+Auto,ME17.5.26
+,
+,
+,
+Auto,ME17.5.6
+,
+,
+Auto,ME17.7
+,
+,
+Auto,ME17.7.20
+,
+,
+Auto,ME17.7.8
+,
+,
+Auto,ME17.8.31
+,
+,
+,
+Auto,ME17.8.32
+,
+,
+,
+Auto,ME17.8.33
+,
+,
+Auto,ME17.8.5
+,
+,
+,
+Bike,ME17.8.5
+,
+,
+,
+,
+Marine,ME17.8.5
+,
+,
+,
+,
+,
+,
+Auto,ME17.8.8
+,
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+Auto,ME17.9.5/ME17.9.51
+,
+Auto,ME17.9.52
+,
+Auto,ME17.9.53
+Auto,ME17.9.55
+Auto,ME17.9.6
+,
+Auto,ME17.9.61
+,
+,
+,
+Auto,ME17.9.64
+,
+,
+,
+Auto,ME17.9.7
+,
+,
+,
+,
+Auto,ME17.9.71
+,
+,
+,
+Bike,ME17.9.71
+,
+Auto,ME17.9.74
+,
+,
+,
+Bike,ME17.9.74
+,
+,
+,
+,
+,
+Auto,ME17/MED17.8.10
+,
+,
+,
+,
+,
+Auto,ME2.0
+,
+,
+,
+,
+Auto,ME2.1
+,
+,
+Veículo,ECU modelo
+BOSCH,
+Auto,ME2.7
+,
+Auto,ME2.7.1
+,
+,
+Auto,ME2.7.2
+,
+,
+Auto,ME2.8
+,
+Auto,ME3.1 / ME7.3H4
+,
+,
+Auto,ME7
+,
+,
+,
+Auto,ME7.0
+,
+Auto,ME7.1
+,
+,
+Auto,ME7.1.1
+,
+,
+Auto,ME7.1/1
+,
+Auto,ME7.1/3
+,
+,
+,
+,
+Auto,ME7.1/5
+,
+,
+,
+,
+Auto,ME7.2
+,
+Auto,ME7.3.1
+Auto,ME7.3.2
+Auto,ME7.3/6
+Auto,ME7.4
+Veículo,ECU modelo
+BOSCH,
+Auto,ME7.4.4
+,
+Marine,ME7.4.4
+,
+,
+Auto,ME7.4.5
+,
+,
+Auto,ME7.4.6
+,
+Auto,ME7.4.7
+,
+Auto,ME7.4.9
+,
+,
+Auto,ME7.4.9NG
+,
+,
+,
+,
+Auto,ME7.5
+,
+,
+,
+,
+,
+Auto,ME7.5.10
+,
+,
+Auto,ME7.5.20
+Auto,ME7.5.30
+,
+Auto,ME7.6.2
+,
+,
+Auto,ME7.6.4
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,ME7.7.0
+,
+,
+Auto,ME7.8
+,
+Auto,ME7.8 MIN
+Auto,ME7.8.1
+,
+Auto,ME7.8.2
+,
+,
+Auto,ME7.8.2 MIN
+,
+Auto,ME7.9
+,
+,
+Auto,ME7.9.10
+,
+,
+Auto,ME7.9.3
+Auto,ME7.9.41
+,
+Auto,ME7.9.51/ME7.9.52
+,
+,
+,
+Auto,ME7.9.6
+,
+,
+,
+,
+Auto,ME7.9.7
+,
+,
+Bike,ME7.9.7
+,
+Auto,ME7.9.71
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,ME7.9.9
+,
+,
+,
+Auto,ME9
+,
+,
+,
+Bike,ME9 BMSK / ME9+ BMSK
+,
+Auto,ME9+
+,
+,
+Auto,ME9.0
+,
+,
+,
+Auto,ME9.1.1
+,
+,
+Auto,ME9.1/9.5
+,
+Auto,ME9.2.2
+,
+,
+Auto,ME9.7
+,
+,
+,
+,
+Auto,MED17 MT
+,
+,
+,
+Auto,MED17.0.1
+,
+,
+Auto,MED17.0.7
+,
+,
+,
+Auto,MED17.0/MED17/2
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,
+,
+,
+Auto,MED17.1
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,MED17.1.1
+,
+,
+,
+,
+,
+,
+Auto,MED17.1.10
+,
+,
+Auto,MED17.1.11
+,
+,
+Auto,MED17.1.12
+,
+,
+Auto,MED17.1.21
+,
+,
+,
+Auto,MED17.1.27
+,
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,MED17.1.6
+,
+,
+,
+Auto,MED17.1.61
+,
+,
+,
+Auto,MED17.1.62
+,
+,
+,
+,
+,
+,
+,
+Auto,MED17.2
+,
+,
+,
+,
+,
+,
+,
+Auto,MED17.2.2
+,
+,
+Auto,MED17.3.1
+,
+,
+Auto,MED17.3.3
+,
+,
+Auto,MED17.3.4
+,
+,
+,
+,
+Auto,MED17.3.5
+,
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MED17.4.2
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MED17.5.21
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MED17.7.3.1
+,
+,
+,
+Auto,MED17.7.5
+,
+,
+Auto,MED17.7.7
+,
+,
+,
+,
+Auto,MED17.8.10
+,
+,
+,
+,
+Bike,MED17.8.10
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,MED17.9.7
+,
+,
+Auto,MED17.9.8/MEDG17.9.8
+,
+,
+Auto,MED17.9.9
+,
+,
+,
+Auto,MED17/22
+,
+,
+,
+,
+,
+Auto,MED172/MEV172
+,
+,
+,
+,
+,
+,
+Auto,MED174/MEV174
+,
+,
+,
+Auto,MED7.1.1
+Auto,MED7.5.11
+Auto,MED7.6.1
+Auto,MED7.6.2
+,
+Auto,MED9.1
+,
+,
+,
+Auto,MED9.1.1/MED9.1.2
+,
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MED9.1/5
+,
+,
+,
+,
+Auto,MED9.5.10
+,
+,
+,
+,
+,
+Auto,MED9.6.1
+,
+,
+,
+Auto,MED9.7
+,
+Auto,MEDC17.9
+,
+,
+,
+Auto,MEDG17.0
+,
+,
+Auto,MEDG9.8
+,
+Auto,MEG1.0
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Auto,MEG1.1
+,
+,
+Auto,MEG17.9.21
+,
+,
+,
+Auto,MEV17.2.2
+,
+,
+,
+Auto,MEV17.2.4
+,
+,
+Auto,MEV17.4 TC1796
+,
+,
+,
+Auto,MEV17.4.2
+,
+,
+,
+Auto,MEV1746
+,
+,
+Auto,MEV9.2
+,
+Auto,MEV946
+,
+Auto,MEVD17.2
+,
+,
+Auto,MEVD17.2.2
+,
+,
+,
+Auto,MEVD17.2.3
+,
+,
+,
+,
+,
+Auto,MEVD17.2.4
+,
+,
+,
+,
+Auto,MEVD17.2.5
+,
+,
+,
+Auto,MEVD17.2.6
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MEVD17.2.7
+,
+,
+,
+Auto,MEVD17.2.8
+,
+,
+,
+Auto,MEVD17.2.9
+,
+,
+,
+,
+Auto,MEVD17.2.G
+,
+,
+,
+,
+Auto,MEVD17.2.H
+,
+,
+,
+Auto,MEVD17.4.2
+,
+,
+,
+Auto,MEVD17.4.4
+,
+,
+,
+Auto,MEVD17.8.4
+,
+,
+Auto,MEVD172G
+,
+,
+Auto,MG1CA002
+,
+,
+Bike,MG1CA007
+,
+,
+Bike,MG1CA094
+,
+,
+Bike,MG1CA920
+,
+,
+Marine,MG1CA920
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+,
+Auto,MG1CP002
+,
+,
+,
+,
+,
+Auto,MG1CP007
+,
+,
+,
+Auto,MG1CS001
+,
+,
+,
+Auto,MG1CS001/MG1CS111
+,
+,
+,
+,
+Auto,MG1CS002
+,
+,
+,
+,
+Auto,MG1CS003 (DME_840H)
+,
+,
+,
+Auto,MG1CS003 (DME_841H)
+,
+,
+,
+Auto,MG1CS003 (DME__840)
+,
+,
+,
+Auto,MG1CS003 (DME__841)
+,
+,
+Auto,MG1CS003 (DME__860)
+,
+,
+Auto,MG1CS003 (DME__861)
+,
+,
+Auto,MG1CS003 (DME__880)
+,
+,
+Auto,MG1CS003 (DME__8C0)
+,
+,
+Auto,MG1CS008
+,
+,
+Auto,MG1CS015
+,
+,
+,
+Auto,MG1CS016
+,
+,
+,
+Auto,MG1CS017
+,
+,
+,
+Auto,MG1CS018
+,
+,
+,
+,
+Auto,MG1CS019
+,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+,
+Auto,MG1CS032
+,
+,
+,
+,
+Auto,MG1CS036
+,
+,
+,
+,
+Auto,MG1CS042
+,
+,
+,
+,
+Auto,MG1CS047
+,
+,
+,
+Auto,MG1CS080
+,
+,
+Auto,MG1CS163
+,
+,
+Auto,MG1CS201 (DME_83T0)
+,
+,
+,
+Auto,MG1CS201 (DME_83T1)
+,
+,
+,
+,
+Auto,MG1CS201 (DME_84T0)
+,
+,
+,
+,
+Auto,MG1CS201 (DME_84T1)
+,
+,
+,
+Auto,MG1CS201 (DME_88T0)
+,
+,
+Auto,MG1CS201 (DME_8XT1)
+,
+,
+,
+Auto,MG1UA008
+,
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+BOSCH,
+,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Bike
+Benzina aspirato
+MG1UA008
+SPC574K72",
+,SPC5777M
+Benzina,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Auto
+MG1US008
+TC277TP",
+sovralimentato,SPC5777M
+Benzina,13 - INFINEON AURIX SAK-TC2xxTP/FREESCALE
+"Bike
+MG1US008
+TC277TP",
+sovralimentato,SPC5777M
+"Auto
+Benzina aspirato
+MG7.9.8 MICRO 2
+ST10F275",02 - STMICROELECTRONICS ST10 (TM002)
+"Auto
+Diesel sovralimentato
+MOTRONIC",
+"Auto
+Benzina aspirato
+MS4.6
+TC1797",03 - INFINEON TRICORE (TM063)
+"Bike
+Benzina aspirato
+MSE3
+ST10F275",02 - STMICROELECTRONICS ST10 (TM002)
+"Benzina aspirato,",
+"Benzina
+Bike
+MSE6.0
+SPC563M64",11 - FREESCALE ST MPC56XX SPC56X (TM069)
+sovralimentato,
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+,
+Veículo,ECU modelo
+BOSCH,
+,
+Bike,MSE8.0
+,
+Tractor,SRC 9-34
+Bike,US6.0
+,
+,VD1CC001
+,
+,
+Auto,VD1CC001
+,
+,
+Truck,VD1CC001
+,
+CAMPI,
+Auto,CAMPI
+,
+Auto,LIE
+,
+CATERPILLAR,
+,A5E12N/A5X12I1
+,
+Veículo,ECU modelo
+CATERPILLAR,
+Tractor,A5E12N/A5X12I1
+,
+Truck,A5E12N/A5X12I1
+,
+,A5E2
+Tractor,A5E2
+Truck,A5E2
+,A5E2V2I1
+Truck,A6E2
+,A6E4
+,
+,
+,ADEM III
+,
+,
+Marine,ADEM III
+,
+Tractor,ADEM III
+,
+,
+,
+Truck,ADEM III
+,
+,
+,
+,
+,ADEM IV
+,
+,
+Marine,ADEM IV
+,
+,
+,
+Tractor,ADEM IV
+,
+,
+,
+,
+,
+,
+Truck,ADEM IV
+,
+,
+,
+Veículo,ECU modelo
+CNH,
+,1851862-30
+Truck,1851862-30
+CONTINENTAL-SIEMENS-VDO,
+,
+Auto,5WK9 SIM4LE
+,
+,
+Auto,5WK9 SIM4LKE
+,
+Auto,5WP4 PPD
+,
+,
+Auto,5WY8
+,
+,
+,
+Truck,5WY8
+,
+,
+,ACM
+,
+,
+Truck,ACM
+,
+,
+,
+,
+Truck,ACM2
+,
+,
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+Auto,ACM2.1/2.2
+,
+,
+Tractor,ACM2.1/2.2
+,
+Truck,CM1881
+Auto,CM2100
+,
+,CM2150C
+,
+Truck,CM2150C
+,CM2150D
+,
+,
+Truck,CM2150D
+,
+,
+,CM2150E
+,
+Auto,CM2150E
+,
+Tractor,CM2150E
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,CM2150E
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,CM2180A
+Auto,CM2200A
+,
+Auto,CM2220
+,
+,
+,
+,
+Truck,CM2220
+,
+,
+,
+,
+Auto,CM2220A
+,
+,
+,
+,
+Truck,CM2220A
+,
+,
+,
+,
+,
+Auto,CM2220C
+,
+,
+,
+,
+,
+Truck,CM2220C
+,
+,
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,CM2250
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Marine,CM2250
+,
+,
+Tractor,CM2250
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,CM2250
+,
+,
+,
+,
+,
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,CM2350A
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,CM2350A
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,CM2350B
+,CM2450A
+,
+,
+Truck,CM2450A
+,
+,
+Auto,CM2450B
+,CM2850A
+,
+Tractor,CM2850A
+,
+,
+,CM2880
+,
+Auto,CM2880
+Truck,CM2880
+Truck,CPC3
+Auto,D52
+Auto,EASY U3.6
+,
+Bike,EASY-U1
+,
+,
+,EMD1
+,
+,
+Tractor,EMD1
+,
+,
+Truck,EMD1
+,
+Truck,EMS 10
+Truck,EMS S7
+,
+,EMS S8
+,
+,
+Marine,EMS S8
+,
+,
+Tractor,EMS S8
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+Auto,EMS2102
+Auto,EMS2205
+Auto,EMS2207
+Auto,EMS2211
+Auto,EMS2301/EMS2302
+,
+,
+Auto,EMS24XX
+,
+,
+Truck,EMS24XX
+,
+Auto,EMS2510/EMS2511
+,
+,
+Auto,EMS3110
+,
+Auto,EMS3120
+,
+,
+Auto,EMS3125
+,
+,
+Auto,EMS3130
+Auto,EMS3132
+Auto,EMS3134
+,
+Auto,EMS3150
+,
+,
+Auto,EMS3155
+,
+Auto,EMS3180
+,
+Auto,GETRAG DC4
+,
+,
+Auto,GPEC2
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+,
+Auto,GPEC2A
+,
+,
+Auto,GPEC3
+,
+Auto,GPEC4
+,
+,
+,
+,
+,
+Auto,GPEC4LM
+,
+,
+,
+,
+Tractor,HDEP MCM
+Truck,HDEP MCM
+,
+Tractor,HDEP MCM2
+,
+,
+Truck,HDEP MCM2
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+CONTINENTAL-SIEMENS-VDO,
+,03 - INFINEON TRICORE (TM014)
+"Tractor
+Diesel sovralimentato
+HDEP MCM2.1 D1/D2
+TC1797",03 - INFINEON TRICORE (TM046)
+,03 - INFINEON TRICORE (TM104)
+,03 - INFINEON TRICORE (TM014)
+"Truck
+Diesel sovralimentato
+HDEP MCM2.1 D1/D2
+TC1797",03 - INFINEON TRICORE (TM046)
+,03 - INFINEON TRICORE (TM104)
+,03 - INFINEON TRICORE (TM014)
+"Diesel sovralimentato
+HDEP MCM2.1 D3/D4
+TC1797",03 - INFINEON TRICORE (TM046)
+,03 - INFINEON TRICORE (TM104)
+,03 - INFINEON TRICORE (TM014)
+"Tractor
+Diesel sovralimentato
+HDEP MCM2.1 D3/D4
+TC1797",03 - INFINEON TRICORE (TM046)
+,03 - INFINEON TRICORE (TM104)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+Truck,HDEP MCM2.1 D3/D4
+,
+,
+,
+,
+,
+,
+,
+Bike,M3C
+,
+,
+,
+,
+,
+,
+Bike,M4A
+,
+,
+Bike,M4C
+,
+,
+Bike,M4D
+Bike,M4REK
+Auto,MS41
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+Auto,MS42
+Auto,MS43
+Auto,MS45
+Auto,MS45.0
+,
+,
+,
+,
+Auto,MSD80
+,
+,
+,
+,
+,
+,
+Auto,MSD81
+,
+,
+,
+Auto,MSD85.0/MSD85.4
+,
+,
+Auto,MSD85.1/MSD85.3
+,
+,
+Auto,MSD85.2
+,
+,
+,
+Auto,MSD87.1/MSD87.2/MSD87.3
+,
+,
+Bike,MSE3.7
+,
+Marine,MSE3.7
+,
+Bike,MSE3.7R/H3
+Auto,MSS50
+Auto,MSS52
+Auto,MSS54
+Auto,MSS60
+Auto,MSS65
+Auto,MSS70
+,
+Auto,MSV70
+,
+,
+Auto,MSV80
+,
+,
+Auto,MSV90
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+,
+Auto,PCR2.1
+,
+,
+Auto,PW8XX
+,
+Auto,SDI10.1
+,
+,
+Auto,SDI10.2
+,
+,
+Auto,SDI10.3
+,
+,
+Auto,SDI10.4
+,
+,
+Auto,SDI21.3
+,
+,
+Auto,SDI21.X
+,
+,
+,
+Auto,SDI3
+,
+,
+,
+,
+Auto,SDI4
+,
+,
+,
+,
+Auto,SDI6
+,
+,
+,
+Auto,SDI6.1
+,
+,
+Auto,SDI7
+,
+Auto,SDI7.1
+,
+,
+Auto,SDI8
+,
+,
+,
+Auto,SDI9
+,
+,
+,
+,
+Auto,SID201/4
+,
+,
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+,
+Auto,SID202
+,
+,
+Auto,SID204
+,
+,
+Auto,SID206
+,
+,
+,
+Auto,SID208
+,
+,
+Auto,SID209
+,
+Auto,SID211
+,
+Auto,SID301/SID303/SID304
+,
+,
+Auto,SID305
+,
+Auto,SID306
+,
+,
+Auto,SID307
+,
+,
+Auto,SID309
+Truck,SID309
+,SID310
+,
+Auto,SID310
+,
+Auto,SID321_CONTINENTAL
+Auto,SID321_VITESCO
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,SID605
+Tractor,SID605
+,
+Truck,SID605
+,
+,
+Auto,SID801/SID801A/SID802/SID804
+,
+,
+Auto,SID802/804/805/806
+,
+,
+,
+,
+Auto,SID803
+,
+,
+,
+,
+,
+,
+Auto,SID803A
+,
+,
+,
+,
+Auto,SID804
+,
+,
+Auto,SID807
+,
+,
+,
+,
+Auto,SID807EVO
+,
+,
+,
+,
+Auto,SID901
+,
+Auto,SID902
+Truck,SID902
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+Truck,SID903/SID904
+Truck,SID908
+Truck,SID913/SID914
+,
+,
+Auto,SIM 266
+,
+,
+Auto,SIM19
+Auto,SIM21
+Auto,SIM210
+Auto,SIM22
+Auto,SIM24
+,
+Auto,SIM271DE2.0
+,
+,
+Auto,SIM271KE2.0
+,
+Auto,SIM28
+Auto,SIM29
+,
+,
+Auto,SIM2K-141/341
+,
+,
+Auto,SIM2K-160
+,
+Auto,SIM2K-240 #L
+,
+,
+,
+Auto,SIM2K-241 #L / SIM2K-242 #L
+,
+,
+Auto,SIM2K-241 #R
+,
+Auto,SIM2K-250/258
+,
+,
+Auto,SIM2K-251
+,
+,
+,
+Auto,SIM2K-260
+,
+,
+,
+Auto,SIM2K-305
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+Auto,SIM2K-341
+,
+Auto,SIM2K-34VR
+Auto,SIM2K-47 #L
+Auto,SIM2K-91
+,
+Auto,SIM32
+,
+,
+,
+Auto,SIM90T
+,
+,
+,
+Auto,SIMK 41
+,
+Auto,SIMK31
+,
+Auto,SIMK43
+,
+,
+,
+,
+Auto,SIMOS 10
+,
+,
+,
+,
+Auto,SIMOS 10.22
+,
+,
+Auto,SIMOS 10.22A
+,
+Auto,SIMOS 11.1
+,
+Auto,SIMOS 12.X
+,
+Auto,SIMOS 15.2X
+Auto,SIMOS 15.3X
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+,
+Auto,SIMOS 16.11
+,
+,
+Auto,SIMOS 18.1/2
+,
+,
+Auto,SIMOS 18.10
+,
+,
+Auto,SIMOS 18.41
+,
+,
+Auto,SIMOS 19.3
+,
+,
+Auto,SIMOS 19.6
+,
+Auto,SIMOS 3.4
+,
+Auto,SIMOS 3PB/3PE/3PG
+,
+,
+Auto,SIMOS 6.2/3
+,
+Auto,SIMOS 7.1
+Auto,SIMOS 8.10
+,
+Auto,SIMOS 8.2
+,
+,
+Auto,SIMOS 8.3
+,
+,
+Auto,SIMOS 8.41
+,
+,
+Auto,SIMOS 8.5
+,
+,
+Auto,SIMOS 9.1
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+Auto,SIMOS7.8/7PP2
+Auto,SIMTEC 70
+Auto,SIMTEC 71.6
+Auto,SIMTEC 71/90
+Auto,SIMTEC 75
+Auto,SIMTEC 76
+Auto,SIMTEC 81.1
+,
+,
+Auto,SIRIUS 32
+,
+,
+,
+,
+Auto,SIRIUS 34
+,
+,
+,
+,
+Auto,V56.X
+,
+,
+,
+Auto,VD46.1/VD46.3
+,
+Veículo,ECU modelo
+CONTINENTAL-SIEMENS-VDO,
+Truck,VDO ACU GEN 3
+DELCO,
+,
+Auto,E37
+,
+,
+,
+Auto,E38
+,
+,
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+DELCO,
+"Benzina aspirato,",
+Benzina,11 - FREESCALE ST MPC56XX SPC56X (TM090)
+"Auto
+E80
+MPC5676R",
+"sovralimentato, Diesel",11 - FREESCALE ST MPC56XX SPC56X (TM092)
+sovralimentato,
+Benzina,
+"Auto
+E81
+MPC5676R",11 - FREESCALE ST MPC56XX SPC56X (TM090)
+sovralimentato,
+"Benzina aspirato,",
+,11 - FREESCALE ST MPC56XX SPC56X (TM090)
+"Benzina
+Auto
+E82
+MPC5676R",
+,11 - FREESCALE ST MPC56XX SPC56X (TM092)
+sovralimentato,
+"Benzina aspirato,",04 - MOTOROLA MPC5500 (TM006)
+"Benzina
+Auto
+E83
+MPC5565",04 - MOTOROLA MPC5500 (TM089)
+sovralimentato,04 - MOTOROLA MPC5500 (TM091)
+,11 - FREESCALE ST MPC56XX SPC56X (TM090)
+"Auto
+Benzina aspirato
+E84
+MPC5676R",
+,11 - FREESCALE ST MPC56XX SPC56X (TM092)
+"Benzina aspirato,",03 - INFINEON TRICORE (TM004)
+"Auto
+E86A
+TC1796",
+Diesel sovralimentato,03 - INFINEON TRICORE (TM063)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+DELCO,
+,
+Auto,E86B
+,
+,
+Auto,E87
+,
+Veículo,ECU modelo
+DELPHI,
+,
+Auto,COMMON BALL DDCR
+,
+Auto,CPC2.10
+Auto,CRD.11
+,
+Auto,CRD2.XX
+,
+,
+Auto,CRD3.EX/CRD3.FX/CRD3.PX
+,
+,
+,
+Auto,CRD3PLUS.X0/CRD3.X0
+,
+,
+,DCM TIER III
+Tractor,DCM TIER III
+Truck,DCM TIER III
+,
+Auto,DCM1.2
+,
+Tractor,DCM2.7AP
+,
+,
+Auto,DCM3.1
+,
+,
+,
+Auto,DCM3.2
+,
+Truck,DCM3.2
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+DELPHI,
+,
+SH72543R,05 - RENESAS SH705X/SH725XX (TM007)
+"Diesel sovralimentato
+DCM3.3 / DCM3.3+",
+SH72544R,05 - RENESAS SH705X/SH725XX (TM059)
+,
+,
+SH72543R,05 - RENESAS SH705X/SH725XX (TM007)
+"Tractor
+Diesel sovralimentato
+DCM3.3 / DCM3.3+",
+SH72544R,05 - RENESAS SH705X/SH725XX (TM059)
+,
+,
+SH72543R,05 - RENESAS SH705X/SH725XX (TM007)
+"Truck
+Diesel sovralimentato
+DCM3.3 / DCM3.3+",
+SH72544R,05 - RENESAS SH705X/SH725XX (TM059)
+,
+"Tractor
+Diesel sovralimentato
+DCM3.3LS
+SH7059",05 - RENESAS SH705X/SH725XX (TM007)
+Benzina,
+SH7058,
+"sovralimentato, Diesel
+Auto
+DCM3.4",05 - RENESAS SH705X/SH725XX (TM007)
+SH7059,
+sovralimentato,
+,
+"Auto
+Diesel sovralimentato
+DCM3.5
+MPC5566",04 - MOTOROLA MPC5500 (TM006)
+,
+"Diesel sovralimentato
+DCM3.7
+SH72544R",05 - RENESAS SH705X/SH725XX (TM007)
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+DELPHI,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,DCM3.7
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Tractor,DCM3.7
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,DCM3.7 / DCM3.7AP
+,
+,
+,
+,
+,
+,
+,
+,
+,DCM3.7AP
+,
+Veículo,ECU modelo
+DELPHI,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,DCM3.7AP
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Tractor,DCM3.7AP
+,
+,
+,
+,
+,
+Truck,DCM3.7AP
+,
+,
+Auto,DCM6.1
+Veículo,ECU modelo
+DELPHI,
+Truck,DCM6.2AP
+,
+Auto,DCM6.2C
+,
+Auto,DCM6.2V
+Veículo,ECU modelo
+DELPHI,
+,
+Truck,ETC3
+,
+Bike,HC12XX
+,
+Auto,IBRIDA 1.7L/TX2 DIESEL
+,
+Auto,M10ST
+Auto,ME7.6.1
+,
+Bike,MT05.3
+,
+,MT05/MT05.2
+Veículo,ECU modelo
+DELPHI,
+,
+,
+Auto,MT80
+,
+,
+Auto,MT86
+DENSO,
+Auto,057L1
+Auto,076JX
+,
+Auto,112300-XXXX LX
+,
+,
+,
+Auto,112400-3401/5431
+,
+,
+,112500-1241
+Tractor,112500-1241
+,
+Truck,112500-1241
+,
+,
+,
+Auto,112700-1272/1416
+,
+,
+Auto,112800-4687
+Bike,13S-8591A-F0
+Bike,13S/2C0/2S3-8591A-XX
+,
+Bike,14B-8591A-XX
+,
+Auto,175822 - 505
+,
+Auto,175822-666
+,
+,
+Auto,175822-737
+,
+Auto,175822-762
+,
+Auto,175822-773
+,
+Auto,175822-799
+Truck,175822-799
+,
+,
+Auto,175822-887
+,
+,
+,
+Auto,176522-762
+,
+Auto,1H
+Truck,1J508-59051
+Veículo,ECU modelo
+DENSO,
+,
+,1JXXX-5905X
+,
+,
+Tractor,1JXXX-5905X
+,
+,
+Truck,1JXXX-5905X
+,
+,1MC/1RC/B1J/B88/B95/BC3/BS2/2DR/2PD
+Bike,
+,-8591A-XX
+,1WS/1XB/2SX/B34/B4C/BR5/BU2/BW3-859
+Bike,
+,1A-XX
+Bike,21175-0005/0015/0016/109X
+Bike,21175-0007
+Bike,21175-0028
+Bike,21175-0046/0047/0057
+Bike,21175-0053
+Bike,21175-0077/0103
+Bike,21175-0109/0111/0113/0114
+Bike,21175-0146
+Bike,21175-0161
+Bike,21175-0186
+Bike,21175-0187
+Bike,21175-0199
+Bike,21175-0204/0206
+Bike,21175-0205
+Bike,21175-0220/0356
+Bike,21175-0248
+Bike,21175-0253/0832
+Bike,21175-0290/0313
+Bike,21175-02XX/03XX/07XX
+Bike,21175-02XX/03XX/07XX/08XX/09XX
+Bike,21175-0321/0354
+Bike,21175-0735/08XX/0933
+Bike,21175-07XX
+Bike,21175-0861
+Bike,21175-0924/0939/0940/0941
+Bike,21175-0982
+Bike,21175-0985
+Bike,21175-0XXX
+Bike,21175-1101
+Bike,21175-1176
+Veículo,ECU modelo
+DENSO,
+Bike,21175-1184
+Bike,21175-1187/1188/1189
+Bike,21175-1191/1192/1194/1196
+Bike,21175-120X/124X/125X/126X/127X
+Bike,21175-1210
+Bike,21175-1212/1213/1217/1218
+Bike,21175-1224/1225
+Bike,21175-1226
+Bike,21175-1239
+Bike,21175-1240/1241/1247
+Bike,21175-1250/1252
+Bike,21175-1283
+Bike,21175-1301
+Bike,21175-1307
+Bike,21175-1312
+,21175-1314/1331/1332/1371/1373/1376/13
+Bike,
+,77/1378
+Bike,21175-1321
+Bike,21175-1322/1323
+Bike,21175-1362
+Bike,21175-1363
+Bike,21175-1384/1386/1389
+Bike,21175-1394/1396/1479
+Bike,21175-1425
+Bike,21175-1426/1428/1429
+Bike,21175-1442/1444/1446/1448/1449
+Bike,21175-1517/1519/1528
+Bike,21175-154X
+Bike,21175-1554/1589
+Bike,21175-1580
+Bike,21175-1592/1594
+Bike,21175-1606/1611
+Bike,21175-1690/1691/1694/1696
+Bike,21175-173X/174X/175X/176X/177X/178X
+,21175-1813/1814/1816/1831/1833/1838/18
+Bike,
+,39/1885
+Bike,21175-1840/1848/1851
+Bike,21175-190X/191X/192X/194X/198X/199X
+Auto,211841-3781A890
+,
+Auto,211941-37000930
+,
+Veículo,ECU modelo
+DENSO,
+Auto,211941-37900830
+Auto,211941-45800932
+Auto,211941-45900930
+Auto,211941-46000930
+Bike,23P-8591A-50
+,
+Bike,23P-8591A-XX
+,
+Truck,25841077
+,
+,
+Auto,275036-0360
+,
+,
+Auto,275036-1150
+,
+,
+Auto,275036-1152
+,
+,
+Auto,275036-1470
+Auto,275036-2050
+Auto,275036-2110
+,
+Auto,275036-2440
+,
+Auto,275036-2880
+Auto,275036-3160
+Auto,275036-3410
+,
+,
+Auto,275036-3560
+,
+,
+Auto,275036-3740
+Auto,275036-4520
+,
+,
+Auto,275036-4820
+,
+,
+,
+Auto,275036-5130
+,
+Truck,275036-5130
+Auto,275036-5280
+,
+,
+Auto,275036-5650
+,
+,
+Auto,275036-5810
+,
+,
+Auto,275036-5920
+,
+,
+Auto,275036-6110
+Veículo,ECU modelo
+DENSO,
+Auto,275036-6941
+Auto,275036-7341
+,
+Auto,275036-7400/7470
+,
+Auto,275036-7461
+Auto,275036-7581
+Auto,275036-7780
+Auto,275036-8250
+,
+Auto,275036-8730
+,
+Auto,275036-9050
+Auto,275036-9160
+,
+,
+Auto,275036-9170
+,
+,
+Truck,275036-9170
+Auto,275036-9300
+Auto,275036-9540
+Auto,275136-1910
+Auto,275136-2010
+Auto,275136-3080
+,275700-3051
+Tractor,275700-3410
+Truck,275700-3410
+Truck,275700-4860
+,275700-4890
+Tractor,275700-4890
+Truck,275700-4890
+Truck,275700-6590
+,275700-7122
+Truck,275700-7122
+Auto,275700-7310
+,275700-9922
+Tractor,275700-9922
+,
+Auto,275722-XXXX
+Veículo,ECU modelo
+DENSO,
+Truck,275800-4213/4221/7340
+Tractor,275800-7221
+Truck,275800-8755
+Auto,275922-001
+,
+Auto,275922-022
+,
+Auto,275922-320
+,
+Truck,275922-320
+,
+Auto,275922-3410
+Auto,275922-428
+Auto,275922-473
+Auto,275922-500
+Auto,275922-5280
+Auto,275922-5280/5380
+Auto,275922-532
+Auto,275922-828
+Auto,275922-856
+,
+,276022-0030
+,
+,
+Tractor,276022-0030
+,
+,
+Truck,276022-0030
+,
+,276122-6460
+Truck,276700-0902
+Truck,276700-1090
+Truck,276700-1212
+Truck,276700-1741
+,2CR/2DR/B60/B66/B67/BW8/BX4/BN6-859
+Bike,
+,1A-XX
+Bike,2D1/3C3/5UX/5WM-8591A-XX
+Bike,2MS-H591A-XX
+Auto,3.0 V6 DTI OPEL/ISUZU
+Veículo,ECU modelo
+DENSO,
+Bike,32910-10LXX/48KXX
+Bike,32920-01HXX/48GXX
+Bike,32920-04KXX
+Bike,32920-08JXX/15HXX/23HXX
+Bike,32920-13KXX/31JAX/38KXX
+,32920-14JXX/15JXX/21HXX/37HXX/38HXX
+Bike,
+,/47HXX
+Bike,32920-16GXX/18GXX/24FXX
+Bike,32920-17K00
+Bike,32920-30G00
+Bike,32920-31J00/31J40/31J80
+,
+Bike,32920-49XXX
+,
+Auto,3392X
+Bike,39P-8591A-XX
+Bike,45B-8591A-XX
+Bike,4C8-8591A-XX
+Truck,4HL1-2
+Marine,4LVXXX
+,
+Auto,68HC16 SUBARU
+,
+Auto,6M60
+,
+Truck,6M60
+,
+,895XX
+,
+Truck,895XX
+,
+,896XX
+Truck,896XX
+Marine,8LVXXX
+Truck,94661024
+,A6E10
+Tractor,A6E10
+Truck,A6E10
+Bike,B02-H591A-XX
+Bike,B1X/B2X/BRA/BR5/BS8-H591A-XX
+Bike,B97-H591A-XX
+Bike,BEX/BHH/BJX/BNW/BXT-8591A-XX
+Bike,BXX-8591A-XX
+,
+,
+Auto,CJ SUBARU
+,
+,
+Auto,D3 NISSAN
+Truck,DC1U
+Auto,DEC030
+,
+Auto,DECE01
+,
+,
+Auto,DECE02
+,
+Auto,DENSO
+Truck,DENSO
+Auto,DENSO_SH_CRPT
+,
+Auto,DT SUBARU
+,
+Bike,HC12_DENSO MC9
+Auto,HF02
+,
+,
+Auto,HP
+,
+,
+Auto,HP.2
+Auto,HWII NISSAN
+Auto,KS SUBARU
+Auto,L3B1
+Auto,L3T4
+Auto,L3TA
+,
+Auto,L831
+,
+Veículo,ECU modelo
+DENSO,
+,
+Truck,MA275700-4501
+,
+,
+Auto,MB079700
+,
+,
+,MB275700-2753
+,
+,
+Auto,MB275700-2753
+,
+Veículo,ECU modelo
+DENSO,
+,
+Auto,MB279700-96XX
+,
+,
+,
+Auto,MB279700-96XX/98XX
+,
+,
+,
+,
+,
+,
+Auto,MB279700-9XXX
+,
+,
+,
+,
+,
+Auto,MB_MH8501_GGD
+,
+,ME306431
+Truck,ME306431
+,
+Auto,N3J1
+,
+,
+Auto,P5.0SC
+,
+,
+,
+Truck,P61
+,
+,
+Auto,PAB1/PAJ1/PAJ9/PX43
+Auto,R2AA MAZDA
+,
+Auto,R2AX
+,
+,
+,
+,
+,
+Auto,R7F701202
+,
+,
+,
+,
+,
+Auto,R7F701216
+,
+,
+Tractor,RA6
+,
+,
+Truck,RA6
+,
+Veículo,ECU modelo
+DENSO,
+,
+,
+,
+Auto,RA6 4D56
+,
+,
+,
+,
+,
+Auto,RA6 4M4
+,
+,
+,
+,
+Auto,RA6 4N13
+,
+,
+,
+,
+,
+Auto,RA6 4N14
+,
+,
+,
+,
+,
+,
+Auto,RA6 4N15
+,
+,
+,
+Auto,RF7X MAZDA
+,
+Auto,RF8X MAZDA
+,
+,
+Auto,SH7058
+,
+,
+,
+Truck,SH7058
+,
+,
+,
+Auto,SH72543
+,
+Auto,SHNC
+Truck,VG1038090001
+Auto,ZJ77
+DEUTZ,
+,HEINZMANN
+Tractor,HEINZMANN
+Veículo,ECU modelo
+EFI,
+,
+Auto,CT1
+,
+Auto,K4
+Bike,PGS02
+Bike,PGS06
+Bike,PGT10
+Bike,PGU09
+Auto,T4
+Auto,T4E
+,
+Auto,T6B
+,
+,
+Auto,T6E
+,
+EGICON,
+Bike,V20
+ELDOR,
+Bike,NEMO 2.0
+Bike,NEMO 2.1
+EVPT,
+,
+Auto,VCU3000
+,
+FOMOCO,
+,
+Auto,DCU-102
+,
+Auto,DCU-106
+Auto,JBH2
+Auto,JDS0
+Auto,LLH5/LLH7
+Auto,PCM150X/PCM170X
+FORD EFI,
+,
+,
+Auto,ECC V
+,
+,
+,
+Auto,EEC V
+,
+Veículo,ECU modelo
+FORD EFI,
+,
+,
+Auto,EEC VI
+,
+,
+Auto,WP.41
+FUJITSU TEN,
+,211841-3581A830
+HITACHI,
+Auto,A56-B7X/MEC93-39X
+Auto,A56-C1X/G9X
+,A56-K69/A56-E32/MEC940-XXX/NEC000-8
+Auto,
+,28
+Auto,A56-U45
+Auto,A56-Y8X/C7X
+,
+Auto,BED301-000
+,
+Auto,BED311-000
+,
+Auto,BED430/431
+,
+,
+Auto,BED434
+,
+,
+Auto,BED501
+,
+,
+Auto,BED506
+,
+Auto,BEM3B2-300
+Auto,BEM3F0-000
+Auto,BEM400-300
+Auto,DEAXXX
+,
+Auto,DEF002-XXX
+,
+,
+Auto,DEF003/DEF006
+,
+,
+Auto,DEF011
+,
+,
+,
+Auto,HPNGV
+,
+,
+Auto,HW 4 HITACHI
+Veículo,ECU modelo
+HITACHI,
+Auto,MEC-107/119
+Auto,MEC-35/63
+Auto,MEC-73
+Auto,MEC100-XXX
+Auto,MEC121-XXX
+Auto,MEC128-230
+Auto,MEC150-XXX
+Auto,MEC20
+Auto,MEC23-XXX
+,MEC31-532/MEC33-890/MEC36-420/MEC3
+Auto,
+,6-610
+Auto,MEC32-210
+Auto,MEC37-300
+Auto,MEC38-490
+Auto,MEC70-XXX
+,
+,
+Auto,MEC73-XXX/MEC78-XXX
+,
+,
+Auto,MEC800
+Auto,MEC92
+Auto,MEC951-XXX
+Auto,NEC017-611/2
+Auto,PEC690
+KEFICO,
+,
+Auto,CPEGD2.20.1/2
+,
+,
+,
+Auto,CPEGD2.20.3/4
+,
+,
+,
+,
+Auto,CPEGD3.20.1
+,
+,
+Veículo,ECU modelo
+KEFICO,
+,
+,
+Auto,CPEGP2.10.1
+,
+,
+,
+Auto,CPEGP3.20.2
+,
+,
+Auto,CPGDSH2.26.1
+,
+Auto,CPGDSH2.26.3
+Auto,KME1.9.3
+,
+Auto,KME1.9.3.1
+,
+,
+,
+Auto,MEG17.9.12
+,
+,
+Auto,MEG17.9.2
+Auto,MG7.9
+KEIHIN,
+Bike,21175-1107/1365/1727/1819/1934/1974
+Bike,32920-37KXX/46KXX
+Bike,32920-49HXX
+,
+Auto,37820-5XX/6XX
+,
+Auto,37820-R5A
+Auto,37820-RAH
+Bike,38770-HR3
+Bike,38770-K0F
+Bike,38770-K26
+Bike,38770-K53
+Bike,38770-K64
+Bike,38770-K80
+Bike,38770-K95
+Bike,38770-K98
+Bike,38770-KPC
+Bike,38770-KRN
+Bike,38770-KTM
+Bike,38770-KTW
+Bike,38770-KTY
+Bike,38770-KVK
+Veículo,ECU modelo
+KEIHIN,
+Bike,38770-KWT
+Bike,38770-KXX
+Bike,38770-KYJ
+Bike,38770-KZZ
+Bike,38770-MBT
+Bike,38770-MCA
+Bike,38770-MCT
+Bike,38770-MEE
+Bike,38770-MEF
+Bike,38770-MEG
+Bike,38770-MEH
+Bike,38770-MEJ
+Bike,38770-MEL
+Bike,38770-MEN
+Bike,38770-MER
+Bike,38770-MEW
+Bike,38770-MFA
+Bike,38770-MFE
+Bike,38770-MFF
+Bike,38770-MFG
+Bike,38770-MFJ
+Bike,38770-MFL
+Bike,38770-MFM
+Bike,38770-MFN
+Bike,38770-MFP
+Bike,38770-MFT
+Bike,38770-MGC
+Bike,38770-MGE
+Bike,38770-MGH
+Bike,38770-MGJ
+Bike,38770-MGM
+Bike,38770-MGP
+Bike,38770-MGR
+Bike,38770-MGS
+Bike,38770-MGY
+Bike,38770-MGZ
+Bike,38770-MJC
+Bike,38770-MJE
+Bike,38770-MJF
+Bike,38770-MJG
+Bike,38770-MJL
+Veículo,ECU modelo
+KEIHIN,
+Bike,38770-MJM
+Bike,38770-MJP
+Bike,38770-MJR
+Bike,38770-MJW
+Bike,38770-MKA
+Bike,38770-MKE
+Bike,38770-MKF
+Bike,38770-MKG
+Bike,38770-MKH
+Bike,38770-MKJ
+Bike,38770-MKK
+Bike,38770-MKL
+Bike,38770-MKN
+Bike,38770-MKP
+Bike,38770-MKR
+Bike,38770-MKS
+Bike,38770-MKT
+Bike,38770-MKV
+Bike,38770-MKW
+Bike,38770-MKY
+Bike,38770-MKZ
+Bike,38770-MLA
+Bike,38770-MLB
+Bike,38770-MLC
+Bike,38770-MLE
+Bike,38770-MLF
+Bike,38770-MLG
+Bike,38770-MLK
+Bike,38770-MLL
+Bike,38770-MLN
+Bike,38770-MXX/NXX
+Bike,38770-N1A
+Bike,38770-NLR
+Bike,38770-NLT
+Bike,38770-NX7
+,
+,
+Bike,38780-MKC
+,
+,
+Bike,6001-19F9-001
+Bike,6001-19G9-00X
+Veículo,ECU modelo
+KEIHIN,
+Bike,6001-19NG-001/6001-2952-000
+Bike,6001-19PE-002
+Bike,6001-19WN-000
+Bike,6001-19YH-000
+Bike,6001-2933-000
+Bike,6001-2958-000
+,
+Bike,6001/631E-19XX-XXX
+,
+,
+Auto,L12B3
+,
+,
+Auto,R18A2
+,
+Bike,SH7052
+Bike,SH7054
+Bike,SH7055
+Bike,SH72531
+,
+Bike,V2I006
+,
+LIEBHERR,
+,
+,LIDEC ECU2
+,
+,
+Tractor,LIDEC ECU2
+,
+,
+Truck,LIDEC ECU2
+,
+,LIDEC1/LIDEC1_2
+LUCAS,
+,PLCC 28HC256
+Tractor,PLCC 28HC256
+Truck,PLCC 28HC256
+Bike,32M4
+Auto,48P
+Auto,48P.27H
+Auto,48P2
+Auto,48P2.36
+Auto,48P2.37
+Auto,48P2.38
+Auto,48P2.3T
+Auto,48P2.60
+Auto,48P2.80
+Auto,4AF
+Auto,48P2.3T
+Auto,48P2.60
+Auto,48P2.80
+Auto,4AF
+Auto,4AF HW427
+Auto,4AF.G3 HW206
+Auto,4AF.M1 HW204
+Auto,4AF.M7 HW204
+Auto,4AF.M8 HW204
+Auto,4AF.M9 HW204
+Auto,4AF.P2
+Auto,4AF.P2 HW204
+Auto,4AF.P4 HW204
+Veículo,ECU modelo
+MARELLI,
+Auto,4AF.PP HW204
+Auto,4AF.PW HW204
+Auto,4AF.S2 HW407
+Auto,4AF.SF HW407
+Auto,4AF.SM HW407
+Auto,4AF.SP HW407
+Auto,4AF.SS HW407
+,
+Auto,4AFB
+,
+Auto,4AFR
+Auto,4AM
+Auto,4AV
+Auto,4AVP
+Auto,4BV
+,
+,
+Auto,4CF
+,
+,
+Auto,4CM
+Auto,4CW
+Auto,4DF.AB HW008
+Auto,4DF.AD HW003
+Auto,4DF.BZ HW004
+Auto,4DF.CB HW006
+Auto,4DF.CP HW006
+Auto,4DF.DC HW003
+Auto,4DF.DM HW003
+Auto,4DF.EE HW007
+Auto,4DF.FL HW007
+Auto,4DF.FW HW007
+Auto,4DF.FY HW002
+Auto,4DF.HH HW010
+Auto,4DF.MC HW008
+Auto,4DF.NP HW001
+Auto,4DF.PH HW009
+Auto,4DF.PL HW001
+Auto,4DF.SB HW010
+Auto,4DF.SH HW009
+Auto,4DF.T2 HW007
+Auto,4DF.TT HW006
+Veículo,ECU modelo
+MARELLI,
+,
+Auto,4DM
+,
+Auto,4GF.CV HW001
+Auto,4GF.EC HW003
+Auto,4GF.EE HW003
+Auto,4GF.MA HW001
+Auto,4GF.MS HW001
+Auto,4GF.OB HW001
+Auto,4GF.SC HW003
+Auto,4GF.ST HW001
+Auto,4GM
+Auto,4GT
+Auto,4GV
+Auto,4HV
+Auto,4LV
+Auto,4MV
+Auto,4SF.BA HW001
+Auto,4SF.BK HW001
+Auto,4SF.BS HW001
+Auto,4SF.CS HW002
+Auto,4SF.FL HW003
+Auto,4SF.KF HW003
+Auto,4SF.PA HW001
+Auto,4SF.PC HW002
+Auto,4SF.PD HW003
+Auto,4SF.PP HW004
+Auto,4SF.PR HW003
+Auto,4SG.FSI HW005
+Auto,4TV.XX
+Auto,59F HW002
+Auto,59F.E4 HW023
+Auto,59F.M1 HW004
+Auto,59F.M1 HW024
+Auto,59F.M2 HW303
+Auto,59F.M3 HW003
+Veículo,ECU modelo
+MARELLI,
+,
+Auto,4DM
+,
+Auto,4GF.CV HW001
+Auto,4GF.EC HW003
+Auto,4GF.EE HW003
+Auto,4GF.MA HW001
+Auto,4GF.MS HW001
+Auto,4GF.OB HW001
+Auto,4GF.SC HW003
+Auto,4GF.ST HW001
+Auto,4GM
+Auto,4GT
+Auto,4GV
+Auto,4HV
+Auto,4LV
+Auto,4MV
+Auto,4SF.BA HW001
+Auto,4SF.BK HW001
+Auto,4SF.BS HW001
+Auto,4SF.CS HW002
+Auto,4SF.FL HW003
+Auto,4SF.KF HW003
+Auto,4SF.PA HW001
+Auto,4SF.PC HW002
+Auto,4SF.PD HW003
+Auto,4SF.PP HW004
+Auto,4SF.PR HW003
+Auto,4SG.FSI HW005
+Auto,4TV.XX
+Auto,59F HW002
+Auto,59F.E4 HW023
+Auto,59F.M1 HW004
+Auto,59F.M1 HW024
+Auto,59F.M2 HW303
+Auto,59F.M3 HW003
+Veículo,ECU modelo
+MARELLI,
+Auto,59F.M3 HW023
+Auto,59F.M3 HW103
+Auto,59F.M3 HW303
+Auto,59F.M5 HW005
+Auto,59F.M5 HW025
+Auto,59F.M5 HW305
+Auto,59F.M7 HW004
+Auto,59F.M7 HW304
+Auto,59F.M7 HW604
+Auto,59F.SC HW303
+Bike,59M
+Auto,5AF HW303
+Auto,5AF.N8 HW306
+Auto,5AF.NY HW306
+Auto,5AF.P3 HW303
+Auto,5AF.P4 HW303
+Auto,5AF.PE HW603
+Auto,5AF.S2 HW407
+Auto,5AF.SK HW603
+Auto,5AF.SM HW607
+Auto,5AF.SP HW607
+Bike,5AM
+Bike,5DM
+Auto,5NF.PS HW104
+Auto,5NF.S5 HW104
+Auto,5NF.S7 HW104
+Auto,5NF.S8 HW104
+Auto,5NF.T1 HW102
+Auto,5NF.T2 HW103
+Auto,5NF.T5 HW102
+Auto,5NF.TH HW105
+Auto,5NR.C1
+Auto,5SF.M3 HW207
+Auto,5SF.M3 HW227
+Auto,5SF3.M1 HW300
+Auto,5SF3.M2 HW300
+Auto,5SF3.ME HW300
+Veículo,ECU modelo
+MARELLI,
+Auto,5SF8.E2
+Auto,5SF8.E5
+Auto,5SF8.E8
+Auto,5SF8.K2
+Auto,5SF8.M4
+Auto,5SF8.MG
+,
+Auto,5SF8.MR
+,
+Auto,5SF8.P2
+Auto,5SF8.P4
+Auto,5SF8.P9
+Auto,5SF8E2
+Auto,5SF8E3
+,
+Auto,5SF9
+,
+Auto,5SF9.A1
+Auto,5SF9.AH
+,
+Auto,5SF9.B1
+,
+Auto,5SF9.MS
+Auto,5SF9CY
+Auto,5SFA1
+Auto,5SFM9 HW207
+Bike,5SM
+Auto,6KPB
+Auto,6KPF
+,
+Auto,6LPX
+,
+Bike,7BM
+,
+Auto,7GF
+,
+Auto,7GV
+,
+Bike,7SM
+,
+Veículo,ECU modelo
+MARELLI,
+,
+Auto,8DF.I1
+,
+,
+Auto,8GF
+,
+,
+Auto,8GMB
+,
+,
+Auto,8GMC
+,
+,
+Auto,8GMF
+,
+Veículo,ECU modelo
+MARELLI,
+,
+,
+Auto,8GML
+,
+,
+,
+Auto,8GMW
+,
+,
+,
+Auto,8GSF
+,
+,
+,
+,
+Auto,8GSW
+,
+,
+,
+Auto,9GC
+,
+Auto,9GCF
+,
+,9GF
+,
+Veículo,ECU modelo
+MARELLI,
+,
+Auto,9GV VAG
+,
+Auto,CFC311
+,
+Auto,CFC319
+,
+,
+Auto,CFC8TDF/CFC8TDW
+,
+Auto,IAW
+Auto,IAW 7GFR
+Auto,IAW4AC
+,
+Auto,IAW5SF4
+,
+Bike,M3G
+Auto,MARELLI
+,
+Bike,MBC1
+,
+Bike,MBC2
+Auto,MICRO ST10F296
+Bike,MIU
+Marine,MIU
+Bike,MIU4
+,
+,
+Auto,MJD6F3
+,
+,
+Auto,MJD6JF
+,
+Auto,MJD6JO01D
+,
+Auto,MJD6O2
+Auto,MJD6O2.A6
+,
+Auto,MJD6O2.M1 - MJD6O3.S3
+,
+Veículo,ECU modelo
+MARELLI,
+,
+Auto,MJD8DS
+,
+,
+,
+,
+,
+Auto,MJD8F2
+,
+,
+,
+,
+,
+,
+Auto,MM10JA
+,
+,
+,
+Bike,MM11MG
+,
+,
+Bike,MM11MP
+,
+Bike,RIU
+MBE,
+Auto,MBE 958
+MELCO,
+,
+Bike,21175-0965/0987/0988
+,
+,
+Bike,21175-1463/1469/1470
+,
+Marine,21175-3732
+,
+Marine,21175-374X
+,
+Marine,33920-87J20/87J30
+Marine,33920-87J61/87J71
+Marine,33920-87J91/87J92/87J94/87JB1/87JD1
+Marine,33920-90J00
+Marine,33920-90JA1/90JA2/90JA3/90JA4
+Marine,33920-90JE0
+Marine,33920-92J00/92J21
+Marine,33920-92J41/92J43/92J53
+Bike,21175-0965/0987/0988
+,
+,
+Bike,21175-1463/1469/1470
+,
+Marine,21175-3732
+,
+Marine,21175-374X
+,
+Marine,33920-87J20/87J30
+Marine,33920-87J61/87J71
+Marine,33920-87J91/87J92/87J94/87JB1/87JD1
+Marine,33920-90J00
+Marine,33920-90JA1/90JA2/90JA3/90JA4
+Marine,33920-90JE0
+Marine,33920-92J00/92J21
+Marine,33920-92J41/92J43/92J53
+Veículo,ECU modelo
+MELCO,
+Marine,33920-99E60/90J21/90J30
+Marine,33920-99E64
+Bike,5PW-8591A-XX
+Bike,5SL-8591A-XX
+,
+Bike,8KJ-8591A-XX
+,
+Bike,HIMEJI
+METATRON,
+Truck,MF4
+MITSUBISHI,
+Bike,21175-0017/0029/0064
+Bike,21175-0079/0154/0375
+Bike,21175-0099
+Bike,21175-0158
+Bike,21175-0330/076X
+Bike,21175-0336/1357
+Bike,21175-0843
+Bike,21175-0966/0967
+,
+Bike,21175-1117/1118
+,
+Bike,21175-1123/1125
+Bike,21175-1124/1128/1129
+Bike,21175-1149/1152/1154/1157
+Bike,21175-1151
+,
+Bike,21175-1170/1171/1174
+,
+,
+Bike,21175-1204/1234/1235/1237
+,
+Marine,21175-1223
+Bike,21175-1268/1271/1274/1275/1276
+,
+,21175-1308/1328/1340/1342/1344/1347/13
+Bike,
+,50
+,
+Bike,21175-1369/1527/1591/1793/2092
+,
+,21175-1432/1433/1436/1439/1455/1456/14
+Bike,
+,58/1459
+,
+,
+Bike,21175-1471/1475/1476
+,
+Bike,21175-1477/1490/1491/1571/1621
+Bike,21175-1541
+Veículo,ECU modelo
+MITSUBISHI,
+Bike,21175-1644
+Bike,21175-1889
+Bike,21175-373X
+,
+Marine,21175-373X
+,
+Bike,2MB-8591A-XX
+Bike,32910-06L00
+Bike,32910-11L00
+Bike,32920-23KXX
+Marine,33920-27GAX
+Marine,33920-87LC0/87LL0
+Marine,33920-87LG0
+Marine,33920-87LL0
+Marine,33920-88L30
+Marine,33920-88L31
+Marine,33920-88LC0
+Marine,33920-89LM0
+Marine,33920-90J80/90J83
+Marine,33920-92JC0/92JJ1
+Bike,33920-93J40
+,
+Marine,33920-93J40
+,
+Marine,33920-96JJ0
+Marine,33920-98J00
+Marine,33920-98J60
+Bike,33920-98JF0
+Marine,33920-98JF0
+Marine,33930-87L80
+,
+Marine,33930-87LG0
+,
+Marine,33940-88LQ0
+Marine,33950-88LF0
+Bike,3B4-8591A-XX
+Bike,5YU-8591A-XX
+Marine,63P-8591A-XX
+Marine,68V-8591A-XX
+Marine,6CX-8591A-XXX
+Marine,6D9-8591A-XX
+Marine,6DV-8591A-XXX
+Bike,6EV-8591A-XX
+Veículo,ECU modelo
+MITSUBISHI,
+,
+Marine,6EV-8591A-XX
+,
+Marine,6GY/6HL-8591A-XX
+Marine,6P2-8591A-XX
+Auto,E2T76299
+,
+,
+Auto,E2T7XXX
+,
+,
+Auto,E2T7XXXXX MH81XX
+Auto,E2T7XXXXX MH83XX
+Auto,E2T88XX
+,
+Auto,E6T0X
+,
+Auto,E6T13XXX
+Auto,E6T172
+Auto,E6T173X
+,
+,
+Auto,E6T310XX
+,
+,
+Auto,E6T36XXX
+,
+Auto,E6T38XXX
+,
+Auto,E6T39XXX
+,
+,
+Auto,E6T42XXX
+,
+,
+,
+Auto,E6T44XXX
+,
+Auto,E6T47XXX/E6T49XXX
+,
+,
+Auto,E6T49XXX/E6T79XXX/E6T83XXX
+,
+,
+,
+,
+Auto,E6T5X
+,
+,
+Veículo,ECU modelo
+MITSUBISHI,
+,
+,
+,
+Auto,E6T72XXX
+,
+,
+,
+,
+Auto,E6T79XX/E6T80XX
+,
+,
+Auto,E6T87076
+,
+,
+Auto,E6T900 M0
+,
+Auto,E6T91571H/E6T91572H
+,
+Auto,E6T91695H
+,
+Bike,F8T51/T52/T54XXX
+Marine,F8T55/T59XXX
+Bike,F8T56/T57XX
+,
+,
+Marine,F8T63171
+,
+,
+Marine,F8T63181
+Marine,F8T63371
+,
+Marine,F8T63473
+,
+Marine,F8T63474
+Marine,F8T63881/F8T63882
+Marine,F8T64171
+Bike,F8T81X
+Bike,F8T820XXX
+,F8T83771/F8T84671/F8T84673/F8T84681/
+Bike,
+,F8T84682
+Marine,F8T8447S
+Bike,F8T84872
+Bike,F8T84874/F8T85971/F8T85972
+Bike,F8T85272
+Bike,F8T86371/F8T86372
+,
+Bike,F8T86772/F8T84475
+,
+Bike,F8T86971
+Bike,F8T86972
+Bike,F8T87073
+Bike,F8T87171/F8T87172
+Veículo,ECU modelo
+MITSUBISHI,
+Bike,F8T95375
+Bike,F8T95771
+Bike,F8T96172
+Bike,F8T96271/F8T96275
+Bike,F8T96274/F8T96276
+Bike,F8T96471
+,
+Bike,F8TG3XXX/TG4XXX/TG5XXX/TG6XXX
+,
+Auto,FPV1EA
+,
+,
+Marine,FX-SHO MH8102F
+,
+,
+,
+Auto,G2T601X
+,
+,
+Auto,HF01
+,
+,
+,
+Auto,MH7202
+,
+,
+,
+Auto,MH7203
+,
+Marine,MH7203
+,
+,
+Auto,MH7XXX/MH8XXX
+,
+,
+Bike,MH8115F
+Marine,MH8115F
+,
+Auto,MH82XX
+,
+Auto,MH82XXF
+,
+Auto,MH8304F
+,
+,
+Auto,MH8306F
+,
+,
+Auto,MHXXXX
+,
+Bike,MHXXXX
+Auto,PAH9/PV10/PYFA
+Veículo,ECU modelo
+MOTOROLA,
+,
+,
+,CM570
+,
+,
+Marine,CM570
+,
+Tractor,CM570
+,
+,
+,
+,
+,
+Truck,CM570
+,
+,
+,
+,
+Truck,CM800
+Auto,CM848C/CM848E/CM849B
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,CM850
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Auto,CM850
+,
+Marine,CM850
+,
+,
+,
+,
+,
+,
+Tractor,CM850
+,
+,
+,
+,
+,
+,
+Veículo,ECU modelo
+MOTOROLA,
+,
+,
+,
+,
+,
+,
+,
+Truck,CM850
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Truck,CM870
+,
+,
+,
+,
+,
+,
+Truck,CM871
+,
+,
+,
+,
+Truck,CM875
+,
+,
+,
+Truck,CM876
+,
+,
+Veículo,ECU modelo
+MOTOROLA,
+Truck,EMS S6
+,
+,
+Auto,MEMS 3
+,
+,
+Auto,NGC3
+Auto,NGC4
+,
+Auto,NGC5
+,
+,
+Marine,PCM0308
+,
+,
+Marine,PCM0701/PCM0702
+,
+,
+Marine,PCM08XX
+,
+Marine,PCMBE0101
+NIKKI,
+Truck,3896-002 CNG
+PERKINS,
+,PERKINS TIER2
+,
+Tractor,PERKINS TIER2
+,
+Truck,PERKINS TIER2
+,
+,PERKINS TIER3
+,
+Veículo,ECU modelo
+PERKINS,
+,
+Tractor,PERKINS TIER3
+,
+Truck,PERKINS TIER3
+PHOENIX,
+,
+,L11
+,
+,
+Tractor,L11
+,
+Truck,L11
+,
+,
+,
+,L12
+,
+,
+,
+,
+,
+Tractor,L12
+,
+,
+Truck,L12
+,
+,L14
+,
+Marine,L14
+,
+Tractor,L14
+,
+,
+Truck,L14
+,
+,L14 / L15
+Veículo,ECU modelo
+PHOENIX,
+,
+Tractor,L14 / L15
+,
+,L15
+Auto,L15
+Marine,L15
+Tractor,L15
+Truck,L15
+,L16
+Veículo,ECU modelo
+PHOENIX,
+Tractor,L33
+,L34
+Tractor,L34
+,
+,L4
+,
+Marine,L4
+,
+Tractor,L4
+,
+,L40
+Tractor,L40
+Tractor,L6
+,
+,
+,L9
+,
+,
+,
+Tractor,L9
+,
+Truck,L9
+,
+,L9 / L11 / L12
+,
+Marine,L9 / L11 / L12
+Tractor,L9 / L11 / L12
+RECON,
+,
+,
+,CM554
+,
+,
+,
+,
+Tractor,CM554
+,
+,
+,
+,
+Truck,CM554
+,
+,
+SAAB,
+,
+Auto,TRIONIC T7
+,
+,
+Auto,TRIONIC T8
+,
+Veículo,ECU modelo
+SAGEM,
+Auto,S2000 PSA
+,
+Auto,S2000RPM
+,
+,
+Auto,S2PM
+,
+,
+,
+Auto,S3000
+,
+,
+SCANIA,
+Truck,C007
+Truck,EEC3
+SHINDENGEN,
+Bike,30400-K0R
+SISU,
+,EEM/EEM2
+Tractor,EEM/EEM2
+TEMIC,
+,
+,
+Auto,DL501 GEN1
+,
+,
+,
+,
+Auto,DL501 GEN2
+,
+,
+,
+,
+Auto,DQ200 GEN1
+,
+,
+,
+,
+,
+,
+Auto,DQ200 GEN2
+,
+,
+,
+,
+Veículo,ECU modelo
+TEMIC,
+,
+,
+,
+Auto,DQ250 GEN1/MQB
+,
+,
+,
+,
+,
+Auto,DQ250CXX
+,
+,
+,
+Auto,DQ250FXX
+,
+Auto,DQ400E
+,
+Auto,DQ500
+,
+,
+Auto,DQ500 MQB
+,
+,
+Tractor,OM401 LA III/1
+,
+Tractor,OM441LA.III/1.00 EDC53 MS5-MB
+Tractor,OM441LA.IV/1-00
+Tractor,OM904LA.III/3-02
+Tractor,OM906LA.E2/2-00
+Tractor,OM906LA.II/1-00
+Tractor,OM906LA.III/4-00
+Tractor,OM926LA.III/1-03
+Veículo,ECU modelo
+TEMIC,
+,
+Tractor,TEMIC PLD
+,
+,
+Truck,TEMIC PLD
+,
+,
+Auto,VL381
+TRANSTRON,
+,
+,
+,4JXX
+,
+,
+,
+Auto,4JXX
+,
+,
+Truck,4JXX
+,
+Truck,6HK1/6UK1
+Auto,L4.3/M4.3S
+Truck,L4.3/M4.3S
+,L5S
+,M5.2.1/M5.2.2/M5.2.3/M5.3.2/M5.3S/M5.3S-
+,
+,S
+,M5.2.1/M5.2.2/M5.2.3/M5.3.2/M5.3S/M5.3S-
+Truck,
+,S
+,SH7055
+Lista detalhada de aplicativos ECU,
+"Veículo
+Alimentação
+ECU modelo
+CPU",New Trasdata CPU application details
+TRANSTRON,
+"Truck
+Diesel sovralimentato
+SH7055
+SH7055",05 - RENESAS SH705X/SH725XX (TM007)
+"Diesel sovralimentato
+SH7059
+SH7059",05 - RENESAS SH705X/SH725XX (TM007)
+"Truck
+Diesel sovralimentato
+SH7059
+SH7059",05 - RENESAS SH705X/SH725XX (TM007)
+,05 - RENESAS SH705X/SH725XX (TM007)
+"Diesel sovralimentato
+SH72544R
+SH72544R",
+,05 - RENESAS SH705X/SH725XX (TM059)
+,05 - RENESAS SH705X/SH725XX (TM007)
+"Auto
+Diesel sovralimentato
+SH72544R
+SH72544R",
+,05 - RENESAS SH705X/SH725XX (TM059)
+,
+,05 - RENESAS SH705X/SH725XX (TM007)
+"Truck
+Diesel sovralimentato
+SH72544R
+SH72544R",
+,05 - RENESAS SH705X/SH725XX (TM059)
+,
+TRW VOLVO,
+,
+"Diesel sovralimentato
+EMS2
+MPC565/MPC566",01 - MOTOROLA MPC500 (TM001)
+,
+"Marine
+Diesel sovralimentato
+EMS2
+MPC565/MPC566",01 - MOTOROLA MPC500 (TM001)
+,
+"Truck
+Diesel sovralimentato
+EMS2
+MPC565/MPC566",01 - MOTOROLA MPC500 (TM001)
+,
+Dimsport Srl - P.iva 01889630065 - Sede Operativa 15020 Serralunga di Crea (AL) - Tel. +39.0142.9552,
+Veículo,ECU modelo
+TRW VOLVO,
+,
+,EMS2.2 V01
+,
+,
+Marine,EMS2.2 V01
+,
+,
+Tractor,EMS2.2 V01
+,
+,
+Veículo,ECU modelo
+TRW VOLVO,
+,
+,EMS2.3
+,
+,
+Tractor,EMS2.3
+,
+,
+,
+Truck,EMS2.3
+,
+,
+,EMS2.4
+Marine,EMS2.4
+Tractor,EMS2.4
+,
+Veículo,ECU modelo
+TRW VOLVO,
+Truck,EMS2.4
+VALEO JOHNSON,
+,
+,
+Auto,J34P
+,
+,
+,
+Auto,V40/V42
+,
+,
+Auto,V46.1X
+,
+,
+Auto,V46.21
+,
+,
+Auto,V46.6
+,
+,
+Auto,V50
+,
+VDO,
+Auto,PW5XX
+VISTEON,
+Auto,ECV6
+Auto,EEC VI ESU-131/ESU-132
+Auto,EEC VI ESU-413/ESU-417/ESU-418
+WABCO,
+Truck,EBS4
+YANMAR,
+Marine,6LYXXX
+ZF,
+Auto,AL45X
+Auto,AL55X
