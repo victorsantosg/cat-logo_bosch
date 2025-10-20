@@ -58,12 +58,9 @@ def cadastrar_usuario():
         finally:
             conn.close()
 
-    # --- Janela Cadastro ---
     janela_cadastro = ctk.CTkToplevel(app)
     janela_cadastro.title("Cadastro de Novo Usuário")
     janela_cadastro.geometry("400x420")
-
-    # Mantém janela na frente
     janela_cadastro.transient(app)
     janela_cadastro.grab_set()
     janela_cadastro.focus_force()
@@ -95,24 +92,37 @@ def login():
 
     if row:
         nome_usuario = row[0]
-        token = secrets.token_hex(16)  # token de acesso
+        token = secrets.token_hex(16)  # token de 32 caracteres
         app.destroy()  # fecha login
 
-        caminho_main = os.path.join(os.getcwd(), "main.py")
+        # Definir caminho do main.exe (ou main.py em dev)
+        if getattr(sys, 'frozen', False):
+            # Está rodando como exe (PyInstaller)
+            caminho_main = os.path.join(sys._MEIPASS, "main.exe")
+        else:
+            # Rodando como script Python
+            caminho_main = os.path.join(os.getcwd(), "main.py")
+
         if os.path.exists(caminho_main):
-            python_exe = sys.executable.replace("python.exe", "pythonw.exe")
-            if not os.path.exists(python_exe):
-                python_exe = sys.executable
+            python_exe = sys.executable
+            # Se for exe, podemos abrir diretamente
+            args = [caminho_main, nome_usuario, token]
+            if caminho_main.endswith(".py"):
+                # Se for script Python, usar pythonw.exe para não mostrar console
+                python_exe = python_exe.replace("python.exe", "pythonw.exe")
+                if not os.path.exists(python_exe):
+                    python_exe = sys.executable
+                args = [python_exe, caminho_main, nome_usuario, token]
 
             subprocess.Popen(
-                [python_exe, caminho_main, nome_usuario, token],
+                args,
                 stdout=subprocess.DEVNULL,
                 stderr=subprocess.DEVNULL,
                 stdin=subprocess.DEVNULL,
                 creationflags=subprocess.DETACHED_PROCESS
             )
         else:
-            messagebox.showerror("Erro", "main.py não encontrado!")
+            messagebox.showerror("Erro", "main.exe ou main.py não encontrado!")
     else:
         messagebox.showerror("Erro", "Usuário ou senha incorretos!")
 
