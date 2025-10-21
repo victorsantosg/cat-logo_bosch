@@ -3,10 +3,10 @@ import customtkinter as ctk
 from tkinter import messagebox
 import sqlite3, os, subprocess, re, hashlib, sys, secrets
 
-DB_USERS = "usuarios.db"
+DB_USERS = "usuarios.db" # Caminho do banco de dados
 
 # ------------------ BANCO DE USUÁRIOS ------------------
-def conectar():
+def conectar(): # Conecta ao banco
     conn = sqlite3.connect(DB_USERS)
     c = conn.cursor()
     c.execute("""
@@ -22,49 +22,49 @@ def conectar():
     conn.commit()
     return conn
 
-def hash_senha(senha: str):
-    return hashlib.sha256(senha.encode("utf-8")).hexdigest()
+def hash_senha(senha: str): # Criptografa a senha usando SHA256 
+    return hashlib.sha256(senha.encode("utf-8")).hexdigest() # Retorna a senha criptografada em hexadecimal
 
-def validar_email(email):
-    return re.match(r"^[\w\.-]+@[\w\.-]+\.\w+$", email)
+def validar_email(email): # Valida o email usando regex 
+    return re.match(r"^[\w\.-]+@[\w\.-]+\.\w+$", email) # Retorna True se o email for válido 
 
 # ------------------ CADASTRO ------------------
-def cadastrar_usuario():
-    def salvar_cadastro():
+def cadastrar_usuario(): # Cria a janela de cadastro do usuário
+    def salvar_cadastro(): # Função para salvar o cadastro do usuário no banco
         nome = entry_nome.get().strip()
         email = entry_email.get().strip()
         endereco = entry_endereco.get().strip()
         usuario = entry_usuario.get().strip()
         senha = entry_senha.get().strip()
 
-        if not all([nome, email, usuario, senha]):
+        if not all([nome, email, usuario, senha]): # Verifica se todos os campos foram preenchidos 
             messagebox.showwarning("Aviso", "Preencha todos os campos obrigatórios!")
             return
-        if not validar_email(email):
+        if not validar_email(email): # Verifica se o email é valido 
             messagebox.showerror("Erro", "Email inválido!")
             return
 
-        senha_hash = hash_senha(senha)
-        conn = conectar()
+        senha_hash = hash_senha(senha) # Criptografa a senha usando SHA256
+        conn = conectar() # Conecta ao banco 
         c = conn.cursor()
-        try:
+        try: #
             c.execute("INSERT INTO usuarios (nome, email, endereco, usuario, senha_hash) VALUES (?, ?, ?, ?, ?)",
-                      (nome, email, endereco, usuario, senha_hash))
+                      (nome, email, endereco, usuario, senha_hash)) # Insere o usuário no banco de dados
             conn.commit()
             messagebox.showinfo("Sucesso", "Usuário cadastrado com sucesso!")
             janela_cadastro.destroy()
-        except sqlite3.IntegrityError:
-            messagebox.showerror("Erro", "Usuário ou email já cadastrado!")
+        except sqlite3.IntegrityError: # Se o usuário ou email ja existir 
+            messagebox.showerror("Erro", "Usuário ou email já cadastrado!") # Exibe uma mensagem de erro
         finally:
             conn.close()
 
-    janela_cadastro = ctk.CTkToplevel(app)
-    janela_cadastro.title("Cadastro de Novo Usuário")
+    janela_cadastro = ctk.CTkToplevel(app) # Cria a janela de cadastro do usuário 
+    janela_cadastro.title("Cadastro de Novo Usuário") 
     janela_cadastro.geometry("400x420")
-    janela_cadastro.transient(app)
-    janela_cadastro.grab_set()
-    janela_cadastro.focus_force()
-    janela_cadastro.lift()
+    janela_cadastro.transient(app) # Define a janela como transiente da janela principal 
+    janela_cadastro.grab_set() 
+    janela_cadastro.focus_force() # Define a janela como foco 
+    janela_cadastro.lift() # Define a janela como topo 
 
     ctk.CTkLabel(janela_cadastro, text="Cadastro de Usuário", font=("Arial", 20, "bold")).pack(pady=15)
     entry_nome = ctk.CTkEntry(janela_cadastro, placeholder_text="Nome completo"); entry_nome.pack(pady=8)
@@ -75,11 +75,11 @@ def cadastrar_usuario():
     ctk.CTkButton(janela_cadastro, text="Cadastrar", command=salvar_cadastro).pack(pady=20)
 
 # ------------------ LOGIN ------------------
-def login():
-    usuario_text = entry_usuario.get().strip()
+def login(): # Função de login do usuário e abre o main.py em uma nova janela se o login for bem-sucedido
+    usuario_text = entry_usuario.get().strip() 
     senha_text = entry_senha.get().strip()
 
-    if not usuario_text or not senha_text:
+    if not usuario_text or not senha_text: # Verifica se os campos foram preenchidos
         messagebox.showwarning("Aviso", "Preencha usuário e senha!")
         return
 
@@ -90,7 +90,7 @@ def login():
     row = c.fetchone()
     conn.close()
 
-    if row:
+    if row: # Se o login for bem-sucedido 
         nome_usuario = row[0]
         token = secrets.token_hex(16)  # token de 32 caracteres
         app.destroy()  # fecha login
@@ -114,7 +114,7 @@ def login():
                     python_exe = sys.executable
                 args = [python_exe, caminho_main, nome_usuario, token]
 
-            subprocess.Popen(
+            subprocess.Popen( # Abre o main.py em uma nova janela
                 args,
                 stdout=subprocess.DEVNULL,
                 stderr=subprocess.DEVNULL,
