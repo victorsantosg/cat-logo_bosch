@@ -179,7 +179,7 @@ Basta executá-lo para iniciar o programa.
 
 ## 📸 Screenshot 
 
-> Interface do Programa (img/Banco_de_dados_de_ECUs.png)
+> Interface do Programa (`img/Banco_de_dados_de_ECUs.png`)
 
 ---
 
