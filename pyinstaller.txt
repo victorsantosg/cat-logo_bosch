@@ -1,8 +1,5 @@
-pyinstaller login.py --onefile ^
---add-data "main.py;." ^
---add-data "usuarios.db;." ^
---collect-binaries tk --collect-binaries tcl ^
---name "ECU_Manager"
-
-
-159928
+pyinstaller --clean --onefile --noconsole --noupx --name "ECU_Manager" ^
+  --add-binary "main.exe;." ^
+  --add-data "usuarios.db;." ^
+  --add-data "ecus.db;." ^
+  login.py

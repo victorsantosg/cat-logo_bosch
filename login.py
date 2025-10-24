@@ -98,10 +98,13 @@ def login(): # Função de login do usuário e abre o main.py em uma nova janela
 
         # Definir caminho do main.exe (ou main.py em dev)
         if getattr(sys, 'frozen', False):
-            # Está rodando como exe (PyInstaller)
-            caminho_main = os.path.join(sys._MEIPASS, "main.exe")
+            possible1 = os.path.join(getattr(sys, "_MEIPASS", ""), "main.exe")
+            possible2 = os.path.join(os.path.dirname(sys.executable), "main.exe")
+            if os.path.exists(possible1):
+                caminho_main = possible1
+            else:
+                caminho_main = possible2
         else:
-            # Rodando como script Python
             caminho_main = os.path.join(os.getcwd(), "main.py")
 
         if os.path.exists(caminho_main):
@@ -115,13 +118,13 @@ def login(): # Função de login do usuário e abre o main.py em uma nova janela
                     python_exe = sys.executable
                 args = [python_exe, caminho_main, nome_usuario, token]
 
-            # subprocess.Popen( # Abre o main.py em uma nova janela
-            #     args,
-            #     stdout=subprocess.DEVNULL,
-            #     stderr=subprocess.DEVNULL,
-            #     stdin=subprocess.DEVNULL,
-            #     creationflags=subprocess.DETACHED_PROCESS
-            # )
+            subprocess.Popen( # Abre o main.py em uma nova janela
+                args,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+                stdin=subprocess.DEVNULL,
+                creationflags=subprocess.DETACHED_PROCESS
+            )
         else:
             messagebox.showerror("Erro", "main.exe ou main.py não encontrado!")
     else:
