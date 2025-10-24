@@ -75,6 +75,7 @@ def cadastrar_usuario(): # Cria a janela de cadastro do usuário
     ctk.CTkButton(janela_cadastro, text="Cadastrar", command=salvar_cadastro).pack(pady=20)
 
 # ------------------ LOGIN ------------------
+
 def login(): # Função de login do usuário e abre o main.py em uma nova janela se o login for bem-sucedido
     usuario_text = entry_usuario.get().strip() 
     senha_text = entry_senha.get().strip()
@@ -114,13 +115,13 @@ def login(): # Função de login do usuário e abre o main.py em uma nova janela
                     python_exe = sys.executable
                 args = [python_exe, caminho_main, nome_usuario, token]
 
-            subprocess.Popen( # Abre o main.py em uma nova janela
-                args,
-                stdout=subprocess.DEVNULL,
-                stderr=subprocess.DEVNULL,
-                stdin=subprocess.DEVNULL,
-                creationflags=subprocess.DETACHED_PROCESS
-            )
+            # subprocess.Popen( # Abre o main.py em uma nova janela
+            #     args,
+            #     stdout=subprocess.DEVNULL,
+            #     stderr=subprocess.DEVNULL,
+            #     stdin=subprocess.DEVNULL,
+            #     creationflags=subprocess.DETACHED_PROCESS
+            # )
         else:
             messagebox.showerror("Erro", "main.exe ou main.py não encontrado!")
     else:
