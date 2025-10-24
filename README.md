@@ -179,18 +179,18 @@ Basta executá-lo para iniciar o programa.
 
 ## 📸 Interface 
 
-*Tela de Login*
+*📸 Tela de Login:*
 
 ![](img/img6.png)
 
 
-*Tela de Cadastro de Usuário*
+*📸 Tela de Cadastro de Usuário:*
 
 
 ![](img/img7.png)
 
 
-*Interface do Programa* 
+*📸 Interface do Programa:*
 
 
 ![](img/img5.png)
