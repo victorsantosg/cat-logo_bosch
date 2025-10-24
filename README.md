@@ -180,7 +180,7 @@ Basta executá-lo para iniciar o programa.
 ## 📸 Tela de Login 
 
 
-![](img/login_ecu_manager.png)
+![](img/login_ecu_manager2.png)
 
 
 ## 📸 Tela de Cadastro de Usuário
