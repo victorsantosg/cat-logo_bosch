@@ -180,7 +180,7 @@ Basta executá-lo para iniciar o programa.
 ## 📸 Screenshot 
 
 > Interface do Programa 
-[](img/img5.png)
+![](img/img5.png)
 
 ---
 
