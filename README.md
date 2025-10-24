@@ -177,19 +177,20 @@ Basta executá-lo para iniciar o programa.
 
 ---
 
-## 📸 Tela de Login 
+## 📸 Interface 
 
+*Tela de Login*
 
 ![](img/login_ecu_manager2.png)
 
 
-## 📸 Tela de Cadastro de Usuário
+*Tela de Cadastro de Usuário*
 
 
 ![](img/cadastro_usuario.png)
 
 
-## 📸 Interface do Programa 
+*Interface do Programa* 
 
 
 ![](img/img5.png)
