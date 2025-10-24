@@ -181,13 +181,13 @@ Basta executá-lo para iniciar o programa.
 
 *Tela de Login*
 
-![](img/login_ecu_manager2.png)
+![](img/img6.png)
 
 
 *Tela de Cadastro de Usuário*
 
 
-![](img/cadastro_usuario.png)
+![](img/img7.png)
 
 
 *Interface do Programa* 
