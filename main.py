@@ -249,26 +249,39 @@ class ECUManagerApp:  # Classe da interface gráfica
             writer.writerows([(r[1], r[2], r[3]) for r in rows]) # Escreve os ECUs no arquivo
         messagebox.showinfo("Exportado", f"{len(rows)} registros salvos em {path}")
 
-    def on_import_csv(self): # Importa o ECU
-        path = filedialog.askopenfilename(filetypes=[("CSV files","*.csv")]) # Abre o arquivo para leitura
-        if not path: # Verifica se o caminho foi selecionado
+    def on_import_csv(self):
+        path = filedialog.askopenfilename(filetypes=[("CSV files","*.csv")])
+        if not path:
             return
-        imported, skipped = 0, 0 # Contadores
+
+        imported, skipped = 0, 0
         try:
-            with open(path, newline="", encoding="utf-8") as f: # Abre o arquivo para leitura
-                reader = csv.DictReader(f) # Leitura do CSV
-                for row in reader: # Para cada linha do CSV 
-                    num = row.get("num_bosch") or row.get("NumeroBosch") # Verifica se o campo num_bosch ou NumeroBosch foi encontrado
-                    model = row.get("modelo_ecu") or row.get("Modelo") # Verifica se o campo modelo_ecu ou Modelo foi encontrado
-                    fabri = row.get("fabricante") or row.get("Fabricante") # Verifica se o campo fabricante ou Fabricante foi encontrado
-                    if num and model and fabri: # Verifica se todos os campos foram encontrados
-                        res = insert_ecu(num, model, fabri) # Insere o ECU
-                        if res: imported +=1 # Verifica se o ECU foi inserido
-                        else: skipped +=1 # Verifica se o ECU foi duplicado
+            with open(path, newline="", encoding="utf-8-sig") as f:  # <-- utf-8-sig remove BOM
+                reader = csv.DictReader(f, delimiter=',')  # <-- garante que o separador é vírgula
+
+                for row in reader:
+                    num = row.get("num_bosch") or row.get("NumeroBosch")
+                    model = row.get("modelo_ecu") or row.get("Modelo")
+                    fabri = row.get("fabricante") or row.get("Fabricante") or "Desconhecido"
+
+                    if num and model:
+                        # Teste: imprime no console
+                        print(num, model, fabri)
+
+                        # Insere no banco
+                        res = insert_ecu(num, model, fabri)
+                        if res:
+                            imported += 1
+                        else:
+                            skipped += 1
+
             self.refresh_grid()
             messagebox.showinfo("Importação Concluída", f"Importados: {imported}\nDuplicados ignorados: {skipped}")
+
         except Exception as e:
             messagebox.showerror("Erro ao importar", str(e))
+
+
 
     def on_edit_clicked(self, event=None): 
         self.on_tree_select(event) 
